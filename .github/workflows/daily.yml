@@ -21,6 +21,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python -m scripts.monitor
+      - name: Generate Chinese SaaS intelligence Markdown
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python -m scripts.intelligence
       - name: Commit snapshot and report
         run: |
           git config user.name "github-actions[bot]"
@@ -30,3 +34,11 @@ jobs:
             git commit -m "chore: daily star snapshot"
             git push
           fi
+      - name: Email Markdown report (optional)
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          REPORT_EMAIL_TO: ${{ secrets.REPORT_EMAIL_TO }}
+        run: python -m scripts.send_email
