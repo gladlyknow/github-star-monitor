@@ -23,13 +23,16 @@ def run():
     now=dt.datetime.now(dt.timezone.utc); stamp=now.isoformat(); day=now.date().isoformat()
     folder=ROOT/"data"/"snapshots"; folder.mkdir(parents=True,exist_ok=True)
     history=[]
-    for f in sorted(folder.glob("*.json")):
+    for f in sorted(folder.glob("*.json"))[-9:]:
         if f.stem==day: continue
         try: history+=json.loads(f.read_text())["repositories"]
         except (ValueError,KeyError): pass
+    if (folder/(day+".json")).exists():
+        print("Already captured today; skipping to preserve snapshot baseline")
+        return
     names=discover()
     # Keep yesterday's candidates to avoid losing comparison coverage.
-    names=list(dict.fromkeys(names+[x["name"] for x in history if x.get("name")]))[:100]
+    names=list(dict.fromkeys(names+[x["name"] for x in history if x.get("name")]))[:65]
     entries=[]
     for name in names:
         try:
@@ -45,7 +48,8 @@ def run():
             hours=(now-dt.datetime.fromisoformat(y["captured_at"].replace("Z","+00:00"))).total_seconds()/3600
             if 20<=hours<=28: prior.append((abs(hours-24),y,hours))
         if prior:
-            _,old,hours=min(prior,key=lambda z:z[0]); x["growth"]={"status":"ok","gain":x["stars"]-old["stars"],"hours":round(hours,2),"rate":(x["stars"]-old["stars"])/old["stars"] if old["stars"] else None}
+            _,old,hours=min(prior,key=lambda z:z[0]); gain=x["stars"]-old["stars"]
+            x["growth"]={"status":"ok" if gain>=0 else "anomalous_decrease","gain":gain if gain>=0 else None,"hours":round(hours,2),"rate":gain/old["stars"] if old["stars"] and gain>=0 else None}
         else: x["growth"]={"status":"insufficient_history","gain":None,"rate":None}
         if x["growth"]["status"]=="ok": ranked.append(x)
     ranked.sort(key=lambda x:(x["growth"]["gain"],x["growth"]["rate"] or 0),reverse=True)
@@ -56,7 +60,10 @@ def run():
     report += ["## 观察名单：尚无可比历史",""]
     report += [f'- [{x["name"]}]({x["url"]}) — {x["stars"]} Stars; {x["description"]}' for x in entries if x["growth"]["status"]!="ok"][:20]
     out=ROOT/"reports";out.mkdir(exist_ok=True)
-    (folder/(day+".json")).write_text(json.dumps({"captured_at":stamp,"repositories":entries},ensure_ascii=False,indent=2)+"\n")
+    snapshot_path=folder/(day+".json")
+    if snapshot_path.exists():
+        raise RuntimeError("Snapshot for today already exists; refusing to overwrite baseline")
+    snapshot_path.write_text(json.dumps({"captured_at":stamp,"repositories":entries},ensure_ascii=False,indent=2)+"\n")
     (out/(day+".md")).write_text("\n".join(report)+"\n")
     print("collected",len(entries),"verified",len(ranked))
 if __name__=="__main__":run()
