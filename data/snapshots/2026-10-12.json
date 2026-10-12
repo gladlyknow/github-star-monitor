@@ -1,0 +1,1037 @@
+{
+  "captured_at": "2026-10-12T07:22:06.430235+00:00",
+  "repositories": [
+    {
+      "id": 1407950271,
+      "name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "stars": 14201,
+      "description": "",
+      "language": "Lean",
+      "readme_excerpt": "This repository contains mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI model.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 409,
+        "hours": 24.15,
+        "rate": 0.029654872389791184
+      }
+    },
+    {
+      "id": 1408489772,
+      "name": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "stars": 6921,
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "language": "Rust",
+      "readme_excerpt": "A fast, open-source word processor with the Word workflow you already know: the ribbon, styles,",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 3421,
+        "hours": 24.15,
+        "rate": 0.9774285714285714
+      }
+    },
+    {
+      "id": 1410124849,
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "stars": 4133,
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "language": "JavaScript",
+      "readme_excerpt": "Ask Claude for a figure that explains a technical idea, and Anatomy has it invent a physical thing whose working *is* the concept. A cache key that skips work when nothing changed becomes a pin-tumbler lock that only turns when every pin matches. One",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1406706284,
+      "name": "alchaincyf/huashu-art-motion",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "stars": 3468,
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "language": "JavaScript",
+      "readme_excerpt": "35种艺术风格 · 9种解说语法 · 8种参数化片段 · 口播整片参考代码",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 191,
+        "hours": 24.15,
+        "rate": 0.058285016783643576
+      }
+    },
+    {
+      "id": 1409787646,
+      "name": "mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "stars": 3361,
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "language": "Go",
+      "readme_excerpt": "🌐 **在线 Demo（模拟数据）**： [https://artex-demo.mhtsec.com](https://artex-demo.mhtsec.com)",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 357,
+        "hours": 24.15,
+        "rate": 0.11884154460719042
+      }
+    },
+    {
+      "id": 1407504032,
+      "name": "zhongerxin/iPhone-use",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "stars": 3207,
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "language": "Python",
+      "readme_excerpt": "让 Codex 通过 USB 操作你的真实 iPhone。用自然语言描述任务，Codex 就能打开 App、读取页面、点击、滚动、输入文字、整理列表，并在侧边栏展示手机屏幕。",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 493,
+        "hours": 24.15,
+        "rate": 0.18165070007369197
+      }
+    },
+    {
+      "id": 1408285582,
+      "name": "storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft",
+      "stars": 3193,
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "language": "Rust",
+      "readme_excerpt": "A fast, open-source, clean-room take on the Excel workflow. It runs natively on macOS,",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 1192,
+        "hours": 24.15,
+        "rate": 0.5957021489255372
+      }
+    },
+    {
+      "id": 1408289866,
+      "name": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "stars": 2885,
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "language": "Rust",
+      "readme_excerpt": "A fast, open-source take on the AutoCAD workflow: the command line, object snaps, layers,",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 881,
+        "hours": 24.15,
+        "rate": 0.43962075848303395
+      }
+    },
+    {
+      "id": 1408465463,
+      "name": "nullmoth/nvidia-macos-driver",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "stars": 2613,
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "language": "Rust",
+      "readme_excerpt": "A Metal driver for NVIDIA Turing-and-later cards on Intel Macs and OpenCore systems running **macOS 15 Sequoia**.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 245,
+        "hours": 24.15,
+        "rate": 0.10346283783783784
+      }
+    },
+    {
+      "id": 1407873347,
+      "name": "LosaLosSantos/aurelio-finance",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "stars": 2450,
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "language": "Python",
+      "readme_excerpt": "Aurelio** is a wealth-management and financial-planning app that runs on your",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 354,
+        "hours": 24.15,
+        "rate": 0.16889312977099236
+      }
+    },
+    {
+      "id": 1409860044,
+      "name": "t4t5/omdrop-owl",
+      "url": "https://github.com/t4t5/omdrop-owl",
+      "stars": 2222,
+      "description": "airdrop for non-apple devices",
+      "language": "Shell",
+      "readme_excerpt": "https://github.com/user-attachments/assets/b195ce4c-e078-49be-bc13-44a72b6dc189",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 549,
+        "hours": 24.15,
+        "rate": 0.32815301852958756
+      }
+    },
+    {
+      "id": 1408294296,
+      "name": "storytold/deckcraft",
+      "url": "https://github.com/storytold/deckcraft",
+      "stars": 2154,
+      "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+      "language": "Rust",
+      "readme_excerpt": "Build decks with themes, layouts, shapes, pictures, tables, charts, transitions and animations,",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 632,
+        "hours": 24.15,
+        "rate": 0.4152431011826544
+      }
+    },
+    {
+      "id": 1408486424,
+      "name": "storytold/soundcraft",
+      "url": "https://github.com/storytold/soundcraft",
+      "stars": 1938,
+      "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+      "language": "Rust",
+      "readme_excerpt": "A complete digital audio workstation that runs natively on macOS, Windows, Linux and FreeBSD, and",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 525,
+        "hours": 24.15,
+        "rate": 0.37154989384288745
+      }
+    },
+    {
+      "id": 1410750399,
+      "name": "noahdunnagan/fsearch",
+      "url": "https://github.com/noahdunnagan/fsearch",
+      "stars": 1906,
+      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "language": "Rust",
+      "readme_excerpt": "Whole-disk file search for macOS: names in about 0.1 ms, typo-tolerant,",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 204,
+        "hours": 24.15,
+        "rate": 0.11985898942420682
+      }
+    },
+    {
+      "id": 1408099862,
+      "name": "alejandrobujan/tendedero",
+      "url": "https://github.com/alejandrobujan/tendedero",
+      "stars": 1902,
+      "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+      "language": "Swift",
+      "readme_excerpt": "Free and open source. For macOS 14 and later.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 223,
+        "hours": 24.15,
+        "rate": 0.13281715306730196
+      }
+    },
+    {
+      "id": 1408557215,
+      "name": "LoreanXavier/pt-pc",
+      "url": "https://github.com/LoreanXavier/pt-pc",
+      "stars": 1464,
+      "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+      "language": "C++",
+      "readme_excerpt": "If the port is worth something to you, you can buy me a coffee: [patreon.com/loreanxavier](https://www.patreon.com/loreanxavier). It keeps the testing hardware and the releases coming.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 112,
+        "hours": 24.15,
+        "rate": 0.08284023668639054
+      }
+    },
+    {
+      "id": 1408493106,
+      "name": "shadany7824/playgta5",
+      "url": "https://github.com/shadany7824/playgta5",
+      "stars": 1413,
+      "description": "A source code for playgta5.com.",
+      "language": "JavaScript",
+      "readme_excerpt": "This code is grabbed from playgta5.com before it got took down. You can run this locally or make it public hehe.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 161,
+        "hours": 24.15,
+        "rate": 0.12859424920127796
+      }
+    },
+    {
+      "id": 1412548284,
+      "name": "storytold/craft-launcher",
+      "url": "https://github.com/storytold/craft-launcher",
+      "stars": 1389,
+      "description": "The Craft App Launcher",
+      "language": "Rust",
+      "readme_excerpt": "PhotoCraft, LightCraft, FilmCraft, DesignCraft, VectorCraft, PdfCraft, EffectCraft, WordCraft,<br",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 763,
+        "hours": 24.15,
+        "rate": 1.218849840255591
+      }
+    },
+    {
+      "id": 1410929004,
+      "name": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp",
+      "stars": 1358,
+      "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+      "language": "Swift",
+      "readme_excerpt": "Search the files on your Mac by what's in them, with Google DeepMind's",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1408277479,
+      "name": "HelixDB/helix-foundry",
+      "url": "https://github.com/HelixDB/helix-foundry",
+      "stars": 1252,
+      "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
+      "language": "TypeScript",
+      "readme_excerpt": "Helix Foundry is a local-first data workspace built on [HelixDB](https://docs.helix-db.com) and [DuckDB](https://duckdb.org). Connect the tools your company already runs on, such as your database, Stripe, WorkOS, PostHog, files and APIs, and it sugge",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 180,
+        "hours": 24.15,
+        "rate": 0.16791044776119404
+      }
+    },
+    {
+      "id": 1409013846,
+      "name": "Fei2411/DeepSeek-Bot",
+      "url": "https://github.com/Fei2411/DeepSeek-Bot",
+      "stars": 1086,
+      "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+      "language": "JavaScript",
+      "readme_excerpt": "DeepSeek Bot (DS Bot) is a bot plugin for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (DSH). It turns DSH into bots. You create your own bots, then talk and work with them.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1408284340,
+      "name": "pingdotgg/ts-rust",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "stars": 1071,
+      "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+      "language": "Rust",
+      "readme_excerpt": "I wanted to see if LLMs could port the TypeScript compiler, checker and lsp to Rust. Turns out they can.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 73,
+        "hours": 24.15,
+        "rate": 0.07314629258517034
+      }
+    },
+    {
+      "id": 1410719150,
+      "name": "anthropics/oss-scanner",
+      "url": "https://github.com/anthropics/oss-scanner",
+      "stars": 825,
+      "description": "",
+      "language": "Dockerfile",
+      "readme_excerpt": "OSS Scanner is a service by Anthropic to scan critical open-source repositories for security vulnerabilities. Learn more about the service at [red.anthropic.com/oss-scanner](https://red.anthropic.com/oss-scanner).",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 123,
+        "hours": 24.15,
+        "rate": 0.1752136752136752
+      }
+    },
+    {
+      "id": 1413898431,
+      "name": "liseami/CCBaga",
+      "url": "https://github.com/liseami/CCBaga",
+      "stars": 819,
+      "description": "",
+      "language": "Rust",
+      "readme_excerpt": "CCBaga brings local maintenance and environment setup into one focused desktop workflow. Inspect Claude data before removing it, rotate your companion browser's fingerprint and restart it, align system settings with a selected region, and compare rea",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1410787228,
+      "name": "wesbos/photo-frame-dashboard",
+      "url": "https://github.com/wesbos/photo-frame-dashboard",
+      "stars": 816,
+      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "language": "Python",
+      "readme_excerpt": "▶️ **Watch the video: [https://youtu.be/ZLycoUMltNI](https://youtu.be/ZLycoUMltNI)",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 242,
+        "hours": 24.15,
+        "rate": 0.42160278745644597
+      }
+    },
+    {
+      "id": 1413021530,
+      "name": "rociiu/talorys",
+      "url": "https://github.com/rociiu/talorys",
+      "stars": 794,
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "language": "TypeScript",
+      "readme_excerpt": "Your personal AI agent. Your own cloud.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1413187188,
+      "name": "marclou/mailcheap",
+      "url": "https://github.com/marclou/mailcheap",
+      "stars": 791,
+      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "language": "JavaScript",
+      "readme_excerpt": "Mailcheap is a self-hosted newsletter app on Amazon SES. Write an issue, send it to your list, publish it on the web. About $0.10 per 1,000 emails.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 207,
+        "hours": 24.15,
+        "rate": 0.3544520547945205
+      }
+    },
+    {
+      "id": 1408371739,
+      "name": "bas3line/ascii",
+      "url": "https://github.com/bas3line/ascii",
+      "stars": 777,
+      "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+      "language": "TypeScript",
+      "readme_excerpt": "217 pieces for React, Next.js, Astro or plain HTML.<br",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 53,
+        "hours": 24.15,
+        "rate": 0.07320441988950276
+      }
+    },
+    {
+      "id": 1410743393,
+      "name": "ThariqS/ai-newtab",
+      "url": "https://github.com/ThariqS/ai-newtab",
+      "stars": 748,
+      "description": "Claude generates a daily new tab page based on your browser history.",
+      "language": "TypeScript",
+      "readme_excerpt": "A new tab that reads the internet for you.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 42,
+        "hours": 24.15,
+        "rate": 0.059490084985835696
+      }
+    },
+    {
+      "id": 1405454424,
+      "name": "elstongun/leviathan",
+      "url": "https://github.com/elstongun/leviathan",
+      "stars": 745,
+      "description": "Deep memory for agents over large datasets. Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "language": "Rust",
+      "readme_excerpt": "Index any table, export or log once; your agent gets the few records that answer the question.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 10,
+        "hours": 24.15,
+        "rate": 0.013605442176870748
+      }
+    },
+    {
+      "id": 1410661601,
+      "name": "ToiCF/CF-Workers-TGProxy",
+      "url": "https://github.com/ToiCF/CF-Workers-TGProxy",
+      "stars": 731,
+      "description": "基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstrap/session 令牌、多 lane WS 复用、AES-CTR 加密、自定义帧、流控与严格 CSP。",
+      "language": null,
+      "readme_excerpt": "Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继（KWS Lanes）。",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 49,
+        "hours": 24.15,
+        "rate": 0.0718475073313783
+      }
+    },
+    {
+      "id": 1409246014,
+      "name": "bherbruck/solidcraft",
+      "url": "https://github.com/bherbruck/solidcraft",
+      "stars": 728,
+      "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+      "language": "Rust",
+      "readme_excerpt": "An open-source parametric 3D CAD application built in pure Rust.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1412360690,
+      "name": "n1tr00-10/tiktok-web-signature",
+      "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+      "stars": 711,
+      "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+      "language": "Python",
+      "readme_excerpt": "Fully reverse-engineered TikTok Web API signature generator. Produces valid X-Gnarly, X-Bogus, and X-Dynosaur signatures that TikTok accepts with success responses.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 4,
+        "hours": 24.15,
+        "rate": 0.005657708628005658
+      }
+    },
+    {
+      "id": 1410177931,
+      "name": "Hinln/ARTEX",
+      "url": "https://github.com/Hinln/ARTEX",
+      "stars": 705,
+      "description": "ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
+      "language": "Go",
+      "readme_excerpt": "🌐 **在线 Demo**： [https://artex-demo.vercel.app/](https://artex-demo.vercel.app/)",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 67,
+        "hours": 24.15,
+        "rate": 0.10501567398119123
+      }
+    },
+    {
+      "id": 1408011967,
+      "name": "sirioberati/Genjustsu-Open-Source-Workflow",
+      "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
+      "stars": 672,
+      "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "language": "Python",
+      "readme_excerpt": "A local UI and agent-assisted workflow for replacing video subjects using colored depth, SAM 3 masks and Seedance through Enhancor. Draft first; approve before 1080p. The final export restores the **entire original source audio**, not generated audio",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1406372374,
+      "name": "academa-labs/manimgx",
+      "url": "https://github.com/academa-labs/manimgx",
+      "stars": 668,
+      "description": "The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core.",
+      "language": "Python",
+      "readme_excerpt": "Powered by Rust and wgpu. Install with a prompt or pip. Run in the browser.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1410002762,
+      "name": "franzenzenhofer/big-arrow-on-the-screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "stars": 633,
+      "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+      "language": "Swift",
+      "readme_excerpt": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 36,
+        "hours": 24.15,
+        "rate": 0.06030150753768844
+      }
+    },
+    {
+      "id": 1411491009,
+      "name": "zeusinsight/FinderSearch",
+      "url": "https://github.com/zeusinsight/FinderSearch",
+      "stars": 626,
+      "description": "A native macOS file browser with fast fuzzy filename search, powered by fsearch.",
+      "language": "Swift",
+      "readme_excerpt": "A native Mac file browser with fast, fuzzy filename search. Browse folders,",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 46,
+        "hours": 24.15,
+        "rate": 0.07931034482758621
+      }
+    },
+    {
+      "id": 1411928195,
+      "name": "KindStatesman/KMS-Pico",
+      "url": "https://github.com/KindStatesman/KMS-Pico",
+      "stars": 614,
+      "description": "Kms Pico Free optimizes your professional desktop environment by providing a tailored utility configuration that enhances workflow efficiency.' This...",
+      "language": null,
+      "readme_excerpt": "Kms Pico Free: The Ultimate Environment Configuration Manager",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 0,
+        "hours": 24.15,
+        "rate": 0.0
+      }
+    },
+    {
+      "id": 1411923912,
+      "name": "VarnishSerpentBurn/Discord-Quest-Completer",
+      "url": "https://github.com/VarnishSerpentBurn/Discord-Quest-Completer",
+      "stars": 611,
+      "description": "Discord Quest Completer optimizes user experience by providing a comprehensive solution to automate and streamline repetitive tasks within popular quests...",
+      "language": null,
+      "readme_excerpt": "🚀 Discord Quest Completer: A High-Performance Quest Completion Suite for Discord",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 0,
+        "hours": 24.15,
+        "rate": 0.0
+      }
+    },
+    {
+      "id": 1401476500,
+      "name": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "stars": 2940,
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "language": "JavaScript",
+      "readme_excerpt": "Once installed, ask questions the way you always do:",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 127,
+        "hours": 24.15,
+        "rate": 0.04514752932811945
+      }
+    },
+    {
+      "id": 1400136506,
+      "name": "storytold/effectcraft",
+      "url": "https://github.com/storytold/effectcraft",
+      "stars": 5312,
+      "description": "EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust",
+      "language": "Rust",
+      "readme_excerpt": "A free, open-source compositor in the spirit of After Effects: compositions, layers,",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 593,
+        "hours": 24.15,
+        "rate": 0.12566221657130747
+      }
+    },
+    {
+      "id": 1402193143,
+      "name": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "stars": 2007,
+      "description": "Open source SDK to build Muse gadgets",
+      "language": "C",
+      "readme_excerpt": "Copyright (c) Meta Platforms, Inc. and affiliates.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 45,
+        "hours": 24.15,
+        "rate": 0.022935779816513763
+      }
+    },
+    {
+      "id": 1399236672,
+      "name": "deadinside28/bloodborne_pc",
+      "url": "https://github.com/deadinside28/bloodborne_pc",
+      "stars": 2511,
+      "description": "",
+      "language": "C++",
+      "readme_excerpt": "THIS PROJECT IS NOT RELATED TO SHADPS4. ALL QUESTIONS RELATED TO THIS PROJECT SHOULD BE SENT TO THE DISCORD SERVER https://discord.gg/KYZRKk9CB, NOT TO THE SHADPS4 SERVER.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 153,
+        "hours": 24.15,
+        "rate": 0.0648854961832061
+      }
+    },
+    {
+      "id": 1404266247,
+      "name": "kargulstudio/sales-crm",
+      "url": "https://github.com/kargulstudio/sales-crm",
+      "stars": 1700,
+      "description": "",
+      "language": "TypeScript",
+      "readme_excerpt": "Next.js 16 + React 19 + Tailwind CSS 4 boilerplate. Read `CONVENTIONS.md` before writing any component, section, or page — it is the whole spec for how this repo is built.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 8,
+        "hours": 24.15,
+        "rate": 0.004728132387706856
+      }
+    },
+    {
+      "id": 1400080206,
+      "name": "lucasmarkes/hairline",
+      "url": "https://github.com/lucasmarkes/hairline",
+      "stars": 1765,
+      "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+      "language": "TypeScript",
+      "readme_excerpt": "Thirty-three isometric line figures that answer the pointer. For React and for anything with a DOM.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 138,
+        "hours": 24.15,
+        "rate": 0.08481868469575907
+      }
+    },
+    {
+      "id": 1400018213,
+      "name": "storytold/designcraft",
+      "url": "https://github.com/storytold/designcraft",
+      "stars": 3120,
+      "description": "DesignCraft: An open-source page and layout design editor written by scratch in pure Rust",
+      "language": "Rust",
+      "readme_excerpt": "A fast, open-source, clean-room take on the Adobe InDesign workflow. It runs natively on macOS,",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 459,
+        "hours": 24.15,
+        "rate": 0.17249154453213078
+      }
+    },
+    {
+      "id": 1401506630,
+      "name": "mizorewww/x_gift_bot",
+      "url": "https://github.com/mizorewww/x_gift_bot",
+      "stars": 1197,
+      "description": "X Premium gift CLI and redemption site",
+      "language": "Go",
+      "readme_excerpt": "X (Twitter) Premium 礼品兑换平台。你生成兑换码发给用户，用户在网页上输入兑换码和自己的 X 用户名，系统自动完成 Premium 赠送的下单与付款。",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 20,
+        "hours": 24.15,
+        "rate": 0.016992353440951572
+      }
+    },
+    {
+      "id": 1401457273,
+      "name": "sganggs/Stronghold-Protocol",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "stars": 1243,
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "language": "JavaScript",
+      "readme_excerpt": "卫戍协议：盟约 · Stronghold Protocol: Alliance",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 71,
+        "hours": 24.15,
+        "rate": 0.060580204778156996
+      }
+    },
+    {
+      "id": 1403115747,
+      "name": "Jakeschincariol/replica-skill",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "stars": 1965,
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "language": "Python",
+      "readme_excerpt": "Eleven Claude skills that clone any app. Free, MIT, no signup, no API key,",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 266,
+        "hours": 24.15,
+        "rate": 0.15656268393172454
+      }
+    },
+    {
+      "id": 1400714777,
+      "name": "StayLameBro/backburner",
+      "url": "https://github.com/StayLameBro/backburner",
+      "stars": 963,
+      "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "language": "Python",
+      "readme_excerpt": "Plug your iPhone into your MacBook with a 10 Gb/s USB-C cable and it helps run Qwen3.8-27B locally:",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 25,
+        "hours": 24.15,
+        "rate": 0.026652452025586353
+      }
+    },
+    {
+      "id": 1404743796,
+      "name": "rauchg/gdp-ts",
+      "url": "https://github.com/rauchg/gdp-ts",
+      "stars": 787,
+      "description": "",
+      "language": "TypeScript",
+      "readme_excerpt": "A tiny [library + linter](#the-package) and [AI skill](#the-skill) implementation of [Ghosts of Departed Proofs](#credits) for TypeScript, a verification system to make API contracts more secure at compile (type check) time.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 8,
+        "hours": 24.15,
+        "rate": 0.010269576379974325
+      }
+    },
+    {
+      "id": 1403431984,
+      "name": "ythx-101/live-panel-skill",
+      "url": "https://github.com/ythx-101/live-panel-skill",
+      "stars": 696,
+      "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
+      "language": "HTML",
+      "readme_excerpt": "Turn a system description (one JSON file) into a **terminal-style, always-running architecture diagram**, or a soft light-theme infographic that moves: fixed layout, packets flowing along the wires, a scrolling log, counters, bars that flip state, si",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 14,
+        "hours": 24.15,
+        "rate": 0.020527859237536656
+      }
+    },
+    {
+      "id": 1404874984,
+      "name": "AgentMemoryRepo/agentmemoryrepo",
+      "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+      "stars": 737,
+      "description": "Spec for Agent Memory Repo",
+      "language": null,
+      "readme_excerpt": "Agents work better when they remember things across sessions. With Agent Memory Repo, your agent saves what it learns from you in real time, and that memory is live across sessions. Memories link to each other, so your agent navigates them like a wik",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 60,
+        "hours": 24.15,
+        "rate": 0.08862629246676514
+      }
+    },
+    {
+      "id": 1402525166,
+      "name": "DozenTwelve/Papermorph",
+      "url": "https://github.com/DozenTwelve/Papermorph",
+      "stars": 692,
+      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "language": "HTML",
+      "readme_excerpt": "You've seen Opus 5.5 one-shot videos.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 19,
+        "hours": 24.15,
+        "rate": 0.02823179791976226
+      }
+    },
+    {
+      "id": 1401970070,
+      "name": "Dingo-Shenanigans/ReSkate",
+      "url": "https://github.com/Dingo-Shenanigans/ReSkate",
+      "stars": 895,
+      "description": "",
+      "language": "C++",
+      "readme_excerpt": "play it offline, host your own lobbies and dedicated servers, and mod it.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 73,
+        "hours": 24.15,
+        "rate": 0.08880778588807786
+      }
+    },
+    {
+      "id": 1402504227,
+      "name": "blendi-remade/agentcraft",
+      "url": "https://github.com/blendi-remade/agentcraft",
+      "stars": 704,
+      "description": "",
+      "language": "Java",
+      "readme_excerpt": "A team of Claude agents doing real work on your code, inside a Minecraft studio you can walk around in.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 22,
+        "hours": 24.15,
+        "rate": 0.03225806451612903
+      }
+    },
+    {
+      "id": 1400880490,
+      "name": "zzzz7788990213-ops/EvoVLM",
+      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+      "stars": 247,
+      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "language": "Python",
+      "readme_excerpt": "Evolving Multimodal Inference Programs",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "anomalous_decrease",
+        "gain": null,
+        "hours": 24.15,
+        "rate": null
+      }
+    },
+    {
+      "id": 1405604903,
+      "name": "szabadkai/c64-keyboard-font",
+      "url": "https://github.com/szabadkai/c64-keyboard-font",
+      "stars": 603,
+      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "language": "Python",
+      "readme_excerpt": "A font recreated from photographs of classic Commodore 64 keycaps, with cleaned-up shapes and consistent proportions.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 10,
+        "hours": 24.15,
+        "rate": 0.016863406408094434
+      }
+    },
+    {
+      "id": 1401821001,
+      "name": "whirlchat/whirl",
+      "url": "https://github.com/whirlchat/whirl",
+      "stars": 505,
+      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "language": "TypeScript",
+      "readme_excerpt": "The AI chat app that sweats the details. Every top model, real memory,<br /",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 0,
+        "hours": 24.15,
+        "rate": 0.0
+      }
+    },
+    {
+      "id": 1403974550,
+      "name": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
+      "url": "https://github.com/BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
+      "stars": 358,
+      "description": "Real-time browser demo for Talk Like You",
+      "language": "Python",
+      "readme_excerpt": "This browser demo generates talking-head video in real time. Animate an image using uploaded audio or a live microphone, dub a source video while preserving its pose and timing, or connect a chat agent for interactive speech-driven animation. Preset ",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "anomalous_decrease",
+        "gain": null,
+        "hours": 24.15,
+        "rate": null
+      }
+    },
+    {
+      "id": 1403847264,
+      "name": "shinshin86/mesh-avatar-studio",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "stars": 627,
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "language": "TypeScript",
+      "readme_excerpt": "Turn a single illustration into an animated 2D mesh avatar: it blinks, talks, turns its head,",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 30,
+        "hours": 24.15,
+        "rate": 0.05025125628140704
+      }
+    },
+    {
+      "id": 1402433235,
+      "name": "saawant12/orbit-store-ps5",
+      "url": "https://github.com/saawant12/orbit-store-ps5",
+      "stars": 532,
+      "description": "A modern PS5 download manager with resumable downloads and phone controls",
+      "language": null,
+      "readme_excerpt": "A modern, no-BS download manager for PS5.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 22,
+        "hours": 24.15,
+        "rate": 0.043137254901960784
+      }
+    },
+    {
+      "id": 1403388032,
+      "name": "allenv0/SCM",
+      "url": "https://github.com/allenv0/SCM",
+      "stars": 472,
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "language": "JavaScript",
+      "readme_excerpt": "Deep AI search for every photo and every frame of video in any folder on macOS.",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 11,
+        "hours": 24.15,
+        "rate": 0.02386117136659436
+      }
+    },
+    {
+      "id": 1401461555,
+      "name": "Vincentwei1021/mg-styles-15",
+      "url": "https://github.com/Vincentwei1021/mg-styles-15",
+      "stars": 685,
+      "description": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
+      "language": "Python",
+      "readme_excerpt": "Fifteen styles, one 10-second film each, all made by Claude Opus 5.5 writing code.**<br",
+      "captured_at": "2026-10-12T07:22:06.430235+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 46,
+        "hours": 24.15,
+        "rate": 0.07198748043818466
+      }
+    }
+  ]
+}
