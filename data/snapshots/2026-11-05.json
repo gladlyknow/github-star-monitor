@@ -1,0 +1,1030 @@
+{
+  "captured_at": "2026-11-05T07:55:09.627008+00:00",
+  "repositories": [
+    {
+      "id": 1440705679,
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": 18973,
+      "description": "Towards a More Autonomous Agent System",
+      "language": "TypeScript",
+      "readme_excerpt": "Research prototype for reference only, not an official DeepSeek product.** This code grew out of our team's day-to-day development work, with much of the engineering done by coding agents. Treat it as research code, not production-ready software. It ",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 1326,
+        "hours": 24.42,
+        "rate": 0.07514025046750156
+      }
+    },
+    {
+      "id": 1440956372,
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "stars": 13156,
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "language": "Rust",
+      "readme_excerpt": "Point it at a target, say what you want, and it studies the original with real inspection tools,<br",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 3832,
+        "hours": 24.42,
+        "rate": 0.410982410982411
+      }
+    },
+    {
+      "id": 1438623288,
+      "name": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "stars": 8974,
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "language": "JavaScript",
+      "readme_excerpt": "Created by Damir Sokolovsky ([@heydamir](https://x.com/heydamir)), who started the [Unslopping series](https://x.com/heydamir/status/2115063463063998736) on X.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 1193,
+        "hours": 24.42,
+        "rate": 0.15332219509060532
+      }
+    },
+    {
+      "id": 1438540053,
+      "name": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "stars": 6837,
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "language": "Kotlin",
+      "readme_excerpt": "An AI assistant on your phone: say what you need, and it works your apps and the web until it's done.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 614,
+        "hours": 24.42,
+        "rate": 0.09866623814880283
+      }
+    },
+    {
+      "id": 1438394948,
+      "name": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "stars": 4942,
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+      "language": "C",
+      "readme_excerpt": "TotK Recomp** is a static recompilation of *The Legend of Zelda: Tears of the Kingdom* (Nintendo Switch, 2023) into a native x86-64 application for Windows and Linux ([docs/architecture.md](docs/architecture.md)).",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 323,
+        "hours": 24.42,
+        "rate": 0.06992855596449447
+      }
+    },
+    {
+      "id": 1439372976,
+      "name": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "stars": 4933,
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "language": "JavaScript",
+      "readme_excerpt": "<!-- count -->244<!-- /count --> pixel art effects and animations, every one a small piece of code.** Fire,",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 622,
+        "hours": 24.42,
+        "rate": 0.14428206912549293
+      }
+    },
+    {
+      "id": 1437774066,
+      "name": "Djihads80/Eglantine",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "stars": 3929,
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "language": "C++",
+      "readme_excerpt": "SPDX-FileCopyrightText: Copyright 2025 Eden Emulator Project",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 755,
+        "hours": 24.42,
+        "rate": 0.23787019533711407
+      }
+    },
+    {
+      "id": 1438326535,
+      "name": "BryceYuuu/RUN",
+      "url": "https://github.com/BryceYuuu/RUN",
+      "stars": 3815,
+      "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "language": "Python",
+      "readme_excerpt": "[🧭 我该走哪条路](docs/routes/choose-route.md)** ｜ **[🌏 主要移民地区](docs/global/README.md)** ｜ **[🇪🇺 欧洲 36 国](docs/europe/README.md)** ｜ **[📊 路线对比](docs/europe/README.md#compare)** ｜ **[📑 文件准备](docs/practical/china-documents.md)",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 491,
+        "hours": 24.42,
+        "rate": 0.1477135980746089
+      }
+    },
+    {
+      "id": 1443985070,
+      "name": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "stars": 2897,
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "language": "TypeScript",
+      "readme_excerpt": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 1481,
+        "hours": 24.42,
+        "rate": 1.04590395480226
+      }
+    },
+    {
+      "id": 1441272552,
+      "name": "Verlintas/NOIR",
+      "url": "https://github.com/Verlintas/NOIR",
+      "stars": 2242,
+      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "language": "Kotlin",
+      "readme_excerpt": "NOIR 是一个跑在电脑上的审计工具，通过 `adb` 读取已连接 Android 设备的应用清单、权限和 APK 里的网络端点，给出分类、风险评分和可执行的处置建议。它也可以在需要时调用 `jadx` 对单个应用做反编译和关键字检索。",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 405,
+        "hours": 24.42,
+        "rate": 0.22046815459989114
+      }
+    },
+    {
+      "id": 1438018242,
+      "name": "paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "stars": 2228,
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "language": "HTML",
+      "readme_excerpt": "一个深色主题的纯净服装参考图集网站，收录 **2727 套**（写实真人版 1407 套 + 二次元动漫版 1320 套）人物不入镜的 AI 生成纯服装图像（2:3 比例），支持中英文双语浏览、多维检索，并配备可选的 AI 一键换装试穿。",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 78,
+        "hours": 24.42,
+        "rate": 0.03627906976744186
+      }
+    },
+    {
+      "id": 1439522537,
+      "name": "elvarofficial/teardown",
+      "url": "https://github.com/elvarofficial/teardown",
+      "stars": 1980,
+      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "language": "JavaScript",
+      "readme_excerpt": "A Claude Code skill that turns any machine into a 3D simulator you can take apart.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 233,
+        "hours": 24.42,
+        "rate": 0.1333714939896966
+      }
+    },
+    {
+      "id": 1441517767,
+      "name": "caru-ini/stack-diagram",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "stars": 1793,
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "language": "TypeScript",
+      "readme_excerpt": "Describe your stack in a sentence. Get an architecture diagram with official logos.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 146,
+        "hours": 24.42,
+        "rate": 0.08864602307225258
+      }
+    },
+    {
+      "id": 1443759946,
+      "name": "govijr/terminal-mac",
+      "url": "https://github.com/govijr/terminal-mac",
+      "stars": 1697,
+      "description": "Entire MacOS running in your terminal.",
+      "language": "Swift",
+      "readme_excerpt": "A separate macOS desktop for computer-use agents, viewed and controlled from a terminal.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 1030,
+        "hours": 24.42,
+        "rate": 1.5442278860569716
+      }
+    },
+    {
+      "id": 1438724252,
+      "name": "Pika-Labs/Pika-H3-Flex",
+      "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
+      "stars": 1691,
+      "description": "Pika H3 Flex: video and audio generation inference",
+      "language": "Python",
+      "readme_excerpt": "Pika H3 Flex is a post-trained H3 model, designed to give professional creators the flexibility and speed to explore with precision. Optimized for greater control, it generates video with synchronized audio in six sampling steps and supports up to 12",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 244,
+        "hours": 24.42,
+        "rate": 0.1686247408431237
+      }
+    },
+    {
+      "id": 1441526188,
+      "name": "mromidev/claude-animated-shorts",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "stars": 1596,
+      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "language": "TypeScript",
+      "readme_excerpt": "The free Claude skill from the video **\"How to Make Viral Animated Shorts Using Claude (Full Workflow)\"**.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 286,
+        "hours": 24.42,
+        "rate": 0.2183206106870229
+      }
+    },
+    {
+      "id": 1440160468,
+      "name": "Arjun-Ingole/hop",
+      "url": "https://github.com/Arjun-Ingole/hop",
+      "stars": 1515,
+      "description": "Install Linux next to Windows without a USB stick",
+      "language": "PowerShell",
+      "readme_excerpt": "hop is a single Windows app that installs Linux alongside Windows. Pick a system, choose a drive, drag",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 40,
+        "hours": 24.42,
+        "rate": 0.02711864406779661
+      }
+    },
+    {
+      "id": 1438661890,
+      "name": "JuneYaooo/rea-video",
+      "url": "https://github.com/JuneYaooo/rea-video",
+      "stars": 1490,
+      "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
+      "language": "Python",
+      "readme_excerpt": "Talking-head, tabletop, AI video, 3D, motion graphics, mixed edits: give it any of them,<br",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1439430391,
+      "name": "kevinraymond/florilegium",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "stars": 1430,
+      "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+      "language": "TeX",
+      "readme_excerpt": "Procedurally generated Delft-blue floral page margins for LaTeX. No images, no imported paths,",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 13,
+        "hours": 24.42,
+        "rate": 0.009174311926605505
+      }
+    },
+    {
+      "id": 1441521221,
+      "name": "wquguru/cicada",
+      "url": "https://github.com/wquguru/cicada",
+      "stars": 1329,
+      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "language": "Swift",
+      "readme_excerpt": "听得懂，说得出，记得住。Mac、Windows、Linux 和 Android 上的实时纪要、双语文字记录、字幕与同声传译。",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 528,
+        "hours": 24.42,
+        "rate": 0.6591760299625468
+      }
+    },
+    {
+      "id": 1438029127,
+      "name": "NiazMorshed2007/reanimate",
+      "url": "https://github.com/NiazMorshed2007/reanimate",
+      "stars": 1192,
+      "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+      "language": "JavaScript",
+      "readme_excerpt": "A lot of good ideas start on someone else's site. Ask an agent to rebuild one from a link or a screenshot and it makes one pass, calls it done, and misses. It can't see the motion or tell how far off it is.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 69,
+        "hours": 24.42,
+        "rate": 0.06144256455921639
+      }
+    },
+    {
+      "id": 1445802355,
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "stars": 1163,
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "language": "Python",
+      "readme_excerpt": "========================================================================",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1440927503,
+      "name": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "stars": 1107,
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "language": "C++",
+      "readme_excerpt": "SPDX-FileCopyrightText: Copyright 2025 Eden Emulator Project",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 474,
+        "hours": 24.42,
+        "rate": 0.7488151658767772
+      }
+    },
+    {
+      "id": 1439885901,
+      "name": "N1nEmAn/sapper-v2",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "stars": 1043,
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "language": "Python",
+      "readme_excerpt": "sapper-v2 — The Autonomous Pentest Legion",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 365,
+        "hours": 24.42,
+        "rate": 0.5383480825958702
+      }
+    },
+    {
+      "id": 1437936317,
+      "name": "RikiyaT/lm_understand-logs",
+      "url": "https://github.com/RikiyaT/lm_understand-logs",
+      "stars": 968,
+      "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
+      "language": "Python",
+      "readme_excerpt": "Logs: LLMs can understand and write neural network weights",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 170,
+        "hours": 24.42,
+        "rate": 0.21303258145363407
+      }
+    },
+    {
+      "id": 1444372497,
+      "name": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "stars": 960,
+      "description": "YellowFruit third-party client",
+      "language": "TypeScript",
+      "readme_excerpt": "Windows / macOS / Android 三端 · Fluent 设计 · 沉浸式竖屏播放",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1440151033,
+      "name": "anthropics/FlashProve",
+      "url": "https://github.com/anthropics/FlashProve",
+      "stars": 857,
+      "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
+      "language": "Lean",
+      "readme_excerpt": "Version 0.16.0 · A research artifact: not maintained, not accepting contributions. · Apache 2.0",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 275,
+        "hours": 24.42,
+        "rate": 0.4725085910652921
+      }
+    },
+    {
+      "id": 1441897000,
+      "name": "s1dashu/quiet-md",
+      "url": "https://github.com/s1dashu/quiet-md",
+      "stars": 854,
+      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML. 高性能本地笔记，兼容飞书文档格式。",
+      "language": "Rust",
+      "readme_excerpt": "Drawn natively with Rust + GPUI. Your notes stay on your computer, stored in the Feishu (Lark) DocxXML format.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1438732649,
+      "name": "hyz317/HairDeck",
+      "url": "https://github.com/hyz317/HairDeck",
+      "stars": 818,
+      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "language": "Python",
+      "readme_excerpt": "[2026.11.05]** 🎨 Colored hair cards: a color model predicts the colors along every card, from two-tone hair to accessories, and the GLB and VRM exports carry them. Try it in the [online demo](https://huggingface.co/spaces/hyz317/HairDeck).",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 27,
+        "hours": 24.42,
+        "rate": 0.03413400758533502
+      }
+    },
+    {
+      "id": 1442356805,
+      "name": "AssassinCreator/steam-stash-value-report-card",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "stars": 772,
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "language": "Python",
+      "readme_excerpt": "paste a profile  ->  pick a card  ->  get a PNG worth posting",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 58,
+        "hours": 24.42,
+        "rate": 0.08123249299719888
+      }
+    },
+    {
+      "id": 1442223451,
+      "name": "UncensoredLabs/uncensored-ai-api",
+      "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+      "stars": 752,
+      "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+      "language": "JavaScript",
+      "readme_excerpt": "Uncensored AI API — UncensoredLabs",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1439244319,
+      "name": "ramenvr/autopilot",
+      "url": "https://github.com/ramenvr/autopilot",
+      "stars": 733,
+      "description": "Play any game",
+      "language": "Python",
+      "readme_excerpt": "By the developers of Aura, [www.tryaura.dev](https://www.tryaura.dev/)",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 38,
+        "hours": 24.42,
+        "rate": 0.05467625899280575
+      }
+    },
+    {
+      "id": 1440406663,
+      "name": "joeblau/subvox",
+      "url": "https://github.com/joeblau/subvox",
+      "stars": 732,
+      "description": "",
+      "language": "Swift",
+      "readme_excerpt": "A macOS prototype that tests whether AirPods Pro head-motion data (`CMHeadphoneMotionManager`) carries enough information to turn **silently mouthed words into text**.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 16,
+        "hours": 24.42,
+        "rate": 0.0223463687150838
+      }
+    },
+    {
+      "id": 1438607462,
+      "name": "sleepy-zone/ai-ref-library-cn",
+      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
+      "stars": 717,
+      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "language": "JavaScript",
+      "readme_excerpt": "基于 **あぎ / ギア（[@giaaibusi](https://x.com/giaaibusi)）** 公开的三套 AI 作图参考素材的中文版网站。",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 10,
+        "hours": 24.42,
+        "rate": 0.014144271570014143
+      }
+    },
+    {
+      "id": 1438656257,
+      "name": "rerun-build/rerun",
+      "url": "https://github.com/rerun-build/rerun",
+      "stars": 690,
+      "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+      "language": "TypeScript",
+      "readme_excerpt": "They use your tools, work on a schedule, and check with you before anything that matters.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 81,
+        "hours": 24.42,
+        "rate": 0.1330049261083744
+      }
+    },
+    {
+      "id": 1439006206,
+      "name": "hongye007/open-pose-costume",
+      "url": "https://github.com/hongye007/open-pose-costume",
+      "stars": 663,
+      "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
+      "language": "TypeScript",
+      "readme_excerpt": "[在线体验 ↗](https://omilic.com/)** &nbsp; · &nbsp; [人物生成 Skill](https://github.com/hongye007/open-pose-costume-skill) &nbsp; · &nbsp; [免费试用指南](https://my.feishu.cn/wiki/DuwOwjo0oiUrMAkVY8McigKcnsh)",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 73,
+        "hours": 24.42,
+        "rate": 0.12372881355932204
+      }
+    },
+    {
+      "id": 1439308037,
+      "name": "alchaincyf/huashu-bird-sticker",
+      "url": "https://github.com/alchaincyf/huashu-bird-sticker",
+      "stars": 661,
+      "description": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
+      "language": null,
+      "readme_excerpt": "Bird stickers for the world's living bird species",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 27,
+        "hours": 24.42,
+        "rate": 0.04258675078864353
+      }
+    },
+    {
+      "id": 1441494479,
+      "name": "Minglink/dsh-jailbreak-workflow",
+      "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+      "stars": 628,
+      "description": "DSH 破甲词制作作工作流 ",
+      "language": "TypeScript",
+      "readme_excerpt": "破甲技术交流论坛：https://openorigin.link/    邀请码：CESFAVBR",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1444569395,
+      "name": "brightsongwrath/personal-data-deletor-osint",
+      "url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
+      "stars": 612,
+      "description": "Ask 970 data brokers to delete your data. Free, local, no account, no server.",
+      "language": "JavaScript",
+      "readme_excerpt": "Right now, sites you've never heard of list your name, address, phone number and relatives. Anyone can look you up, including a stalker or a scammer who needs one convincing detail.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1444635695,
+      "name": "andrew-babo/muse4ai",
+      "url": "https://github.com/andrew-babo/muse4ai",
+      "stars": 609,
+      "description": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+      "language": "TypeScript",
+      "readme_excerpt": "Let your AI agent make the pictures and the videos.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1426780056,
+      "name": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "stars": 9769,
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "language": "Kotlin",
+      "readme_excerpt": "参照 Apple TV 做的 Android TV 桌面：没有广告，没有推荐流，只有你的 App、壁纸和航拍屏保。<br",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 305,
+        "hours": 24.42,
+        "rate": 0.03222738799661876
+      }
+    },
+    {
+      "id": 1431545439,
+      "name": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "stars": 4773,
+      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "language": "C",
+      "readme_excerpt": "GPU unlock 1.1.1 — RTX 4090 and experimental Ada GPUs",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 27,
+        "hours": 24.42,
+        "rate": 0.005689001264222503
+      }
+    },
+    {
+      "id": 1431851693,
+      "name": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "stars": 6405,
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "language": "Python",
+      "readme_excerpt": "介绍页：**https://rddmwmddr.github.io/android-ad-cleaner/",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 222,
+        "hours": 24.42,
+        "rate": 0.035904900533721494
+      }
+    },
+    {
+      "id": 1427126014,
+      "name": "Jakeschincariol/day-trader-skill",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "stars": 5374,
+      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "language": "Python",
+      "readme_excerpt": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 337,
+        "hours": 24.42,
+        "rate": 0.0669049037125273
+      }
+    },
+    {
+      "id": 1428848843,
+      "name": "wesbos/3d-model-anything",
+      "url": "https://github.com/wesbos/3d-model-anything",
+      "stars": 2773,
+      "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+      "language": "Swift",
+      "readme_excerpt": "Capture a room on an iPhone, then use its geometry and photographs to build an editable Three.js scene with an AI coding agent.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 73,
+        "hours": 24.42,
+        "rate": 0.027037037037037037
+      }
+    },
+    {
+      "id": 1428714039,
+      "name": "xevrion/hatchzip",
+      "url": "https://github.com/xevrion/hatchzip",
+      "stars": 2503,
+      "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+      "language": "Rust",
+      "readme_excerpt": "Extract huge archives in place. The archive shrinks as your files hatch,<br",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 15,
+        "hours": 24.42,
+        "rate": 0.006028938906752411
+      }
+    },
+    {
+      "id": 1432980411,
+      "name": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "stars": 4210,
+      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "language": "TypeScript",
+      "readme_excerpt": "7,298 个雅思词条 · 原创插画 · 英美发音 · FSRS 间隔复习",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 85,
+        "hours": 24.42,
+        "rate": 0.020606060606060607
+      }
+    },
+    {
+      "id": 1428058681,
+      "name": "ikow/php2shell-poc",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "stars": 1938,
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "language": "Python",
+      "readme_excerpt": "Five independent RCE chains exploiting PHP's `session.upload_progress` and the Zend engine's OOM bailout. **14 years of vulnerable code** — PHP 5.4.0 (2012) through 8.5.11. Pre-auth. No application vulnerability required for some chains.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 5,
+        "hours": 24.42,
+        "rate": 0.002586652871184687
+      }
+    },
+    {
+      "id": 1429328794,
+      "name": "oosexgang/hakios-xnu-kernel",
+      "url": "https://github.com/oosexgang/hakios-xnu-kernel",
+      "stars": 2482,
+      "description": "Apple's open-source XNU kernel on Android phones: its own loader and drivers, Metal on the Adreno. Runs from RAM; a reboot gives the phone back to Android.",
+      "language": "C",
+      "readme_excerpt": "English · [中文](README.zh.md) · [Українська](README.uk.md)",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 39,
+        "hours": 24.42,
+        "rate": 0.015963978714695046
+      }
+    },
+    {
+      "id": 1431830406,
+      "name": "t3dotgg/tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "stars": 3012,
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "language": "Python",
+      "readme_excerpt": "The agent skills I use every day, cleaned up so anyone can use them. They work",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1428268121,
+      "name": "9bie/php2shell-bypass-aslr-exp",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "stars": 1555,
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "language": "Python",
+      "readme_excerpt": "php2shell - 官方环境 无需display_errors，不修改memory_limit",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 4,
+        "hours": 24.42,
+        "rate": 0.0025789813023855577
+      }
+    },
+    {
+      "id": 1427704805,
+      "name": "openai/php2shell-checker",
+      "url": "https://github.com/openai/php2shell-checker",
+      "stars": 1464,
+      "description": "",
+      "language": "JavaScript",
+      "readme_excerpt": "Get a version-based PHP2Shell warning from a website's PHP headers or local installation.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 4,
+        "hours": 24.42,
+        "rate": 0.0027397260273972603
+      }
+    },
+    {
+      "id": 1427696883,
+      "name": "colinhacks/reylo",
+      "url": "https://github.com/colinhacks/reylo",
+      "stars": 1503,
+      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+      "language": "Rust",
+      "readme_excerpt": "select u.id, u.name, count(p.id)::int as post_count",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 11,
+        "hours": 24.42,
+        "rate": 0.007372654155495978
+      }
+    },
+    {
+      "id": 1427861485,
+      "name": "lyramakesmusic/neuron-explorer",
+      "url": "https://github.com/lyramakesmusic/neuron-explorer",
+      "stars": 1923,
+      "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+      "language": "Python",
+      "readme_excerpt": "Steering-first neuron explorer for Qwen3.5-4B. Every MLP neuron in a layer is pushed up and down on a few prompts, every",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 25,
+        "hours": 24.42,
+        "rate": 0.013171759747102213
+      }
+    },
+    {
+      "id": 1430513158,
+      "name": "morganlinton/BeautifulRust",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "stars": 1717,
+      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "language": "Python",
+      "readme_excerpt": "Three standard [Agent Skills](https://agentskills.io) and a lints config that teach coding",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 19,
+        "hours": 24.42,
+        "rate": 0.011189634864546525
+      }
+    },
+    {
+      "id": 1431010194,
+      "name": "enesozturk/dimensional-drawing",
+      "url": "https://github.com/enesozturk/dimensional-drawing",
+      "stars": 1806,
+      "description": "Create Apple style dimensional drawings of UI components.",
+      "language": "HTML",
+      "readme_excerpt": "Paddings, gaps, corner radii, layers and viewport placement, measured and labeled like Apple's dimensional drawings.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1428098303,
+      "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "stars": 1068,
+      "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
+      "language": "Shell",
+      "readme_excerpt": "php2shell — CVE-2026-109618 / CVE-2026-109619",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 8,
+        "hours": 24.42,
+        "rate": 0.007547169811320755
+      }
+    },
+    {
+      "id": 1427107663,
+      "name": "eagle-hq/EAGLE-4",
+      "url": "https://github.com/eagle-hq/EAGLE-4",
+      "stars": 1156,
+      "description": "Official Inference Code of EAGLE-4",
+      "language": "Python",
+      "readme_excerpt": "Figure 1(a) of the EAGLE-4 paper: Qwen3.8-27B on the SPEED-Bench qualitative split, 4× NVIDIA B300, one request, temperature 0.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 15,
+        "hours": 24.42,
+        "rate": 0.013146362839614373
+      }
+    },
+    {
+      "id": 1429116361,
+      "name": "Snapintosh/Snapintosh",
+      "url": "https://github.com/Snapintosh/Snapintosh",
+      "stars": 1166,
+      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+      "language": "Python",
+      "readme_excerpt": "Snapintosh boots Apple's macOS 27 (build 26A428) on an ASUS Zenbook A16 laptop",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 14,
+        "hours": 24.42,
+        "rate": 0.012152777777777778
+      }
+    },
+    {
+      "id": 1429213407,
+      "name": "assetnote/php2shell-scanner",
+      "url": "https://github.com/assetnote/php2shell-scanner",
+      "stars": 985,
+      "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+      "language": "Python",
+      "readme_excerpt": "A command-line tool for detecting CVE-2026-109618 and CVE-2026-109619 in PHP applications.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 3,
+        "hours": 24.42,
+        "rate": 0.003054989816700611
+      }
+    },
+    {
+      "id": 1433653089,
+      "name": "KillaBoi/StealMyBitcoin-PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "stars": 1038,
+      "description": "A public release of the Steal My Bitcoin challenge",
+      "language": "Python",
+      "readme_excerpt": "Steal My Bitcoin CTF proof of concept",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1426503435,
+      "name": "windows-GPU-UNLOCK/Windows-GPU-UNLOCK",
+      "url": "https://github.com/windows-GPU-UNLOCK/Windows-GPU-UNLOCK",
+      "stars": 1838,
+      "description": "Windows GPU UNLOCK: RTX3090 UEFI port, Korean no-reset Windows boot guide, verified source and benchmark evidence",
+      "language": "C",
+      "readme_excerpt": "Contributor tooling: [entry-point inventory and cleanup proposal](docs/ENTRYPOINT-PLAN.en.md).",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1433904617,
+      "name": "andyhuo520/digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "stars": 1786,
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "language": "TypeScript",
+      "readme_excerpt": "One photo + one sentence → a finished talking-head video with a digital human.",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1433057196,
+      "name": "DenisSergeevitch/ex-ussr-kinship-research",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "stars": 1919,
+      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "language": "Python",
+      "readme_excerpt": "Languages: [English](README.md) / [Русский](README.ru.md) / [Беларуская](README.be.md) / [Қазақша](README.kk.md) / [Українська](README.uk.md) / [Polski](README.pl.md) / [Deutsch](README.de.md) / [Română](README.ro.md) / [Eesti](README.et.md) / [Latvi",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1433377156,
+      "name": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "stars": 7020,
+      "description": "",
+      "language": null,
+      "readme_excerpt": "`ub-mode` is an agent skill that enforces disciplined software engineering principles when writing or changing code. It is loosely based on portions of [@poteto](https://github.com/poteto)'s rules (`poteto-mode` / `pstack`), reduced and paired with d",
+      "captured_at": "2026-11-05T07:55:09.627008+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    }
+  ]
+}
