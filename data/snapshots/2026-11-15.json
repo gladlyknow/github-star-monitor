@@ -1,0 +1,980 @@
+{
+  "captured_at": "2026-11-15T07:52:47.621284+00:00",
+  "repositories": [
+    {
+      "id": 1450963843,
+      "name": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "stars": 7640,
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "language": "Swift",
+      "readme_excerpt": "A MobileGestalt editor for iPhone and iPad. Developed by [huamidev](https://github.com/huamidev).",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 220,
+        "hours": 24.27,
+        "rate": 0.029649595687331536
+      }
+    },
+    {
+      "id": 1450012790,
+      "name": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "stars": 3065,
+      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+      "language": "C#",
+      "readme_excerpt": "Good news: [s2arm.com](https://s2arm.com) is now the official S2Arm website.** S2Arm is free and open source and never accepts donations; get S2Arm only from [s2arm.com](https://s2arm.com) or this GitHub repository.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 166,
+        "hours": 24.27,
+        "rate": 0.057261124525698516
+      }
+    },
+    {
+      "id": 1452123445,
+      "name": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "stars": 2086,
+      "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "language": "Swift",
+      "readme_excerpt": "Erosion-CN** 衍生自上游 **[jailbreakdotparty/Erosion](https://github.com/jailbreakdotparty/Erosion)**，提供中英双语界面，修复了原版多项真机 Bug，并做了防白苹果安全加固：",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 117,
+        "hours": 24.27,
+        "rate": 0.05942102590147283
+      }
+    },
+    {
+      "id": 1455006582,
+      "name": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "stars": 1917,
+      "description": "Chat Demo",
+      "language": "TypeScript",
+      "readme_excerpt": "A static chat demo powered by the DeepSeek API. No application backend is required: the browser connects directly to the configured API service.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 729,
+        "hours": 24.27,
+        "rate": 0.6136363636363636
+      }
+    },
+    {
+      "id": 1453517867,
+      "name": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "stars": 1896,
+      "description": "Apex Neural Rendering (ANR) by Apex Compute",
+      "language": "C++",
+      "readme_excerpt": "ANR FG**: frame generation. In beta.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 330,
+        "hours": 24.27,
+        "rate": 0.210727969348659
+      }
+    },
+    {
+      "id": 1453132706,
+      "name": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "stars": 1529,
+      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+      "language": "TypeScript",
+      "readme_excerpt": "Private AI meeting notes. A free, open-source alternative to Granola.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 201,
+        "hours": 24.27,
+        "rate": 0.15135542168674698
+      }
+    },
+    {
+      "id": 1452531582,
+      "name": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "stars": 1516,
+      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "language": "Python",
+      "readme_excerpt": "SuperMimic trains a humanoid whole-body motion tracker with one differentiable world model, built on [mjlab](https://github.com/mujocolab/mjlab).",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 55,
+        "hours": 24.27,
+        "rate": 0.03764544832306639
+      }
+    },
+    {
+      "id": 1450794567,
+      "name": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "stars": 1425,
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "language": "TypeScript",
+      "readme_excerpt": "Agents join your channels and DMs with a role, an owner and a budget, work where everyone can see,",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 67,
+        "hours": 24.27,
+        "rate": 0.04933726067746686
+      }
+    },
+    {
+      "id": 1452008226,
+      "name": "HolyArrs/HolyArrs",
+      "url": "https://github.com/HolyArrs/HolyArrs",
+      "stars": 1207,
+      "description": "One self-hosted app for your shows, movies and music.",
+      "language": "Go",
+      "readme_excerpt": "HolyArrs 1.1.4: remove any request, and friends' Plex watchlists are read again.** A folder's quality now shows on its card, and Settings got a consistency pass. [See what's new](https://holyarrs.com/whats-new/)",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 85,
+        "hours": 24.27,
+        "rate": 0.07575757575757576
+      }
+    },
+    {
+      "id": 1455815512,
+      "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+      "stars": 1051,
+      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
+      "language": "Visual Basic .NET",
+      "readme_excerpt": "FFmpeg-GUI-Editor-Windows — Ready-to-Use Free Portable Video Editor (.exe)",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 510,
+        "hours": 24.27,
+        "rate": 0.9426987060998152
+      }
+    },
+    {
+      "id": 1451554320,
+      "name": "adriadam10/mkw-recomp",
+      "url": "https://github.com/adriadam10/mkw-recomp",
+      "stars": 1003,
+      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+      "language": "C",
+      "readme_excerpt": "A static recompilation of *Mario Kart World* (Nintendo Switch 2, versions 1.0.0 and 1.8.0) into a native PC program for Linux and",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 267,
+        "hours": 24.27,
+        "rate": 0.36277173913043476
+      }
+    },
+    {
+      "id": 1451419767,
+      "name": "kolbicz/WQFiles",
+      "url": "https://github.com/kolbicz/WQFiles",
+      "stars": 874,
+      "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+      "language": "Objective-C",
+      "readme_excerpt": "WQ Files** is a file browser, app data manager and cache cleaner for iOS 26",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 52,
+        "hours": 24.27,
+        "rate": 0.06326034063260341
+      }
+    },
+    {
+      "id": 1451775929,
+      "name": "alexeyw/lot-map",
+      "url": "https://github.com/alexeyw/lot-map",
+      "stars": 843,
+      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+      "language": "TypeScript",
+      "readme_excerpt": "A mod for Claude Code: a live map of the work, in a pane beside the chat. Every tool call, model step, hook and skill sends a pulse from the centre to its station, so you see memory, files, shell, web and agents at work instead of reading a list of c",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 84,
+        "hours": 24.27,
+        "rate": 0.11067193675889328
+      }
+    },
+    {
+      "id": 1450792839,
+      "name": "serveroshq/panel",
+      "url": "https://github.com/serveroshq/panel",
+      "stars": 820,
+      "description": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+      "language": "PHP",
+      "readme_excerpt": "ServerOS runs the Linux servers you already own from one place. Connect a VPS from any provider with one command, then deploy apps, sites and databases, watch them, back them up and fix them, without living in a terminal. Your servers stay with your ",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 59,
+        "hours": 24.27,
+        "rate": 0.07752956636005257
+      }
+    },
+    {
+      "id": 1452450730,
+      "name": "JDhruv14/line-art-animation",
+      "url": "https://github.com/JDhruv14/line-art-animation",
+      "stars": 789,
+      "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+      "language": "TypeScript",
+      "readme_excerpt": "A Claude skill and a small TypeScript library for animated line-art components:",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 111,
+        "hours": 24.27,
+        "rate": 0.16371681415929204
+      }
+    },
+    {
+      "id": 1453604719,
+      "name": "Eynnzerr/TelemetryCleaner",
+      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+      "stars": 734,
+      "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+      "language": "Kotlin",
+      "readme_excerpt": "运营商为终端入网、自注册、网络运维和故障排查，确有在相应场景收集必要数据的实际需求！本项目仅供学习，用于了解 Android 系统包管理机制。",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1456537250,
+      "name": "opencoredev/islandcn",
+      "url": "https://github.com/opencoredev/islandcn",
+      "stars": 694,
+      "description": "The open-source Dynamic Island for React, installed with shadcn.",
+      "language": "TypeScript",
+      "readme_excerpt": "A Dynamic Island-style component for any React app, installed with shadcn. Show an upload, a timer, a song, a ride on its way, an incoming call or a recording in one island at the top of your app, and shape each activity around your app's own actions",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 253,
+        "hours": 24.27,
+        "rate": 0.5736961451247166
+      }
+    },
+    {
+      "id": 1458091050,
+      "name": "Topkiflare74/ai--manus2.0",
+      "url": "https://github.com/Topkiflare74/ai--manus2.0",
+      "stars": 678,
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "language": null,
+      "readme_excerpt": "Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458099208,
+      "name": "WarriorRemember/IPTV_Player_2.0",
+      "url": "https://github.com/WarriorRemember/IPTV_Player_2.0",
+      "stars": 673,
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "language": "Rust",
+      "readme_excerpt": "📺 MegaCubo Free – Stream Live TV Channels in 4K Without Limits [2026]",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458092119,
+      "name": "trackboatwrightplan/GitHub-Copilot-app",
+      "url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
+      "stars": 672,
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "language": null,
+      "readme_excerpt": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458092197,
+      "name": "TrapAccountant/GitHub-Copilot-app",
+      "url": "https://github.com/TrapAccountant/GitHub-Copilot-app",
+      "stars": 670,
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "language": null,
+      "readme_excerpt": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458099066,
+      "name": "TurquoiseDetective/IPTV_Player_2.0",
+      "url": "https://github.com/TurquoiseDetective/IPTV_Player_2.0",
+      "stars": 669,
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "language": "Rust",
+      "readme_excerpt": "📺 MegaCubo Free – Stream Live TV Channels in 4K Without Limits [2026]",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458091291,
+      "name": "tornadonovicewhirl40/IPTV_Player_2.0",
+      "url": "https://github.com/tornadonovicewhirl40/IPTV_Player_2.0",
+      "stars": 669,
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "language": "Rust",
+      "readme_excerpt": "📺 MegaCubo Free – Stream Live TV Channels in 4K Without Limits [2026]",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458099253,
+      "name": "WattBeetleLearn/IPTV_Player_2.0",
+      "url": "https://github.com/WattBeetleLearn/IPTV_Player_2.0",
+      "stars": 667,
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "language": "Rust",
+      "readme_excerpt": "📺 MegaCubo Free – Stream Live TV Channels in 4K Without Limits [2026]",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458091044,
+      "name": "topapothecarycanal/ai--manus2.0",
+      "url": "https://github.com/topapothecarycanal/ai--manus2.0",
+      "stars": 666,
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "language": null,
+      "readme_excerpt": "Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458099092,
+      "name": "Trapbraneedle/IPTV_Player_2.0",
+      "url": "https://github.com/Trapbraneedle/IPTV_Player_2.0",
+      "stars": 666,
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "language": "Rust",
+      "readme_excerpt": "📺 MegaCubo Free – Stream Live TV Channels in 4K Without Limits [2026]",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458092120,
+      "name": "trackersnailgrip/GitHub-Copilot-app",
+      "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
+      "stars": 666,
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "language": null,
+      "readme_excerpt": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458099094,
+      "name": "Titanlushrink/IPTV_Player_2.0",
+      "url": "https://github.com/Titanlushrink/IPTV_Player_2.0",
+      "stars": 665,
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "language": "Rust",
+      "readme_excerpt": "📺 MegaCubo Free – Stream Live TV Channels in 4K Without Limits [2026]",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458092123,
+      "name": "TradesmanRecord/GitHub-Copilot-app",
+      "url": "https://github.com/TradesmanRecord/GitHub-Copilot-app",
+      "stars": 665,
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "language": null,
+      "readme_excerpt": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458091062,
+      "name": "toppatronweave/ai--manus2.0",
+      "url": "https://github.com/toppatronweave/ai--manus2.0",
+      "stars": 665,
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "language": null,
+      "readme_excerpt": "Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458099119,
+      "name": "toppatronweave/GitHub-Copilot-app",
+      "url": "https://github.com/toppatronweave/GitHub-Copilot-app",
+      "stars": 665,
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "language": null,
+      "readme_excerpt": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458091352,
+      "name": "Torusdrasocket/IPTV_Player_2.0",
+      "url": "https://github.com/Torusdrasocket/IPTV_Player_2.0",
+      "stars": 665,
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "language": "Rust",
+      "readme_excerpt": "📺 MegaCubo Free – Stream Live TV Channels in 4K Without Limits [2026]",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458091425,
+      "name": "TowerStalker/IPTV_Player_2.0",
+      "url": "https://github.com/TowerStalker/IPTV_Player_2.0",
+      "stars": 665,
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "language": "Rust",
+      "readme_excerpt": "📺 MegaCubo Free – Stream Live TV Channels in 4K Without Limits [2026]",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458099075,
+      "name": "TurkeyDesignate/GitHub-Copilot-app",
+      "url": "https://github.com/TurkeyDesignate/GitHub-Copilot-app",
+      "stars": 664,
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "language": null,
+      "readme_excerpt": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458099121,
+      "name": "TurquoiseConsultant/GitHub-Copilot-app",
+      "url": "https://github.com/TurquoiseConsultant/GitHub-Copilot-app",
+      "stars": 664,
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "language": null,
+      "readme_excerpt": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458092242,
+      "name": "TrapBladesmith/GitHub-Copilot-app",
+      "url": "https://github.com/TrapBladesmith/GitHub-Copilot-app",
+      "stars": 664,
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "language": null,
+      "readme_excerpt": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458099218,
+      "name": "WebBookkeeper/GitHub-Copilot-app",
+      "url": "https://github.com/WebBookkeeper/GitHub-Copilot-app",
+      "stars": 663,
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "language": null,
+      "readme_excerpt": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458099096,
+      "name": "Tealplesense/GitHub-Copilot-app",
+      "url": "https://github.com/Tealplesense/GitHub-Copilot-app",
+      "stars": 663,
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "language": null,
+      "readme_excerpt": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458091509,
+      "name": "Tornadovonmodify/IPTV_Player_2.0",
+      "url": "https://github.com/Tornadovonmodify/IPTV_Player_2.0",
+      "stars": 663,
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "language": "Rust",
+      "readme_excerpt": "📺 MegaCubo Free – Stream Live TV Channels in 4K Without Limits [2026]",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458091047,
+      "name": "topconstableinlet67/ai--manus2.0",
+      "url": "https://github.com/topconstableinlet67/ai--manus2.0",
+      "stars": 663,
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "language": null,
+      "readme_excerpt": "Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1440705679,
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": 23181,
+      "description": "Towards a More Autonomous Agent System",
+      "language": "TypeScript",
+      "readme_excerpt": "Research prototype for reference only, not an official DeepSeek product.** This code grew out of our team's day-to-day development work, with much of the engineering done by coding agents. Treat it as research code, not production-ready software. It ",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 120,
+        "hours": 24.27,
+        "rate": 0.005203590477429426
+      }
+    },
+    {
+      "id": 1440956372,
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "stars": 33094,
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "language": "Rust",
+      "readme_excerpt": "Point it at a target, say what you want, and it studies the original with real inspection tools,<br",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 1368,
+        "hours": 24.27,
+        "rate": 0.04311920822038706
+      }
+    },
+    {
+      "id": 1439372976,
+      "name": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "stars": 7507,
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "language": "JavaScript",
+      "readme_excerpt": "<!-- count -->244<!-- /count --> pixel art effects and animations, every one a small piece of code.** Fire,",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 132,
+        "hours": 24.27,
+        "rate": 0.017898305084745762
+      }
+    },
+    {
+      "id": 1443985070,
+      "name": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "stars": 5402,
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "language": "TypeScript",
+      "readme_excerpt": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 201,
+        "hours": 24.27,
+        "rate": 0.03864641415112478
+      }
+    },
+    {
+      "id": 1440927503,
+      "name": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "stars": 9241,
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "language": "C++",
+      "readme_excerpt": "SPDX-FileCopyrightText: Copyright 2025 Eden Emulator Project",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 206,
+        "hours": 24.27,
+        "rate": 0.02280022136137244
+      }
+    },
+    {
+      "id": 1441272552,
+      "name": "Verlintas/NOIR",
+      "url": "https://github.com/Verlintas/NOIR",
+      "stars": 3500,
+      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "language": "Kotlin",
+      "readme_excerpt": "NOIR 是一个跑在电脑上的审计工具，通过 `adb` 读取已连接 Android 设备的应用清单、权限和 APK 里的网络端点，给出分类、风险评分和可执行的处置建议。它也可以在需要时调用 `jadx` 对单个应用做反编译和关键字检索。",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 145,
+        "hours": 24.27,
+        "rate": 0.043219076005961254
+      }
+    },
+    {
+      "id": 1439522537,
+      "name": "elvarofficial/teardown",
+      "url": "https://github.com/elvarofficial/teardown",
+      "stars": 3524,
+      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "language": "JavaScript",
+      "readme_excerpt": "A Claude Code skill that turns any machine into a 3D simulator you can take apart.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 68,
+        "hours": 24.27,
+        "rate": 0.019675925925925927
+      }
+    },
+    {
+      "id": 1443759946,
+      "name": "govijr/terminal-mac",
+      "url": "https://github.com/govijr/terminal-mac",
+      "stars": 2746,
+      "description": "Entire MacOS running in your terminal.",
+      "language": "Swift",
+      "readme_excerpt": "A separate macOS desktop for computer-use agents, viewed and controlled from a terminal.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 35,
+        "hours": 24.27,
+        "rate": 0.012910365178900774
+      }
+    },
+    {
+      "id": 1441517767,
+      "name": "caru-ini/stack-diagram",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "stars": 2501,
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "language": "TypeScript",
+      "readme_excerpt": "Describe your stack in a sentence. Get an architecture diagram with official logos.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 12,
+        "hours": 24.27,
+        "rate": 0.004821213338690237
+      }
+    },
+    {
+      "id": 1441526188,
+      "name": "mromidev/claude-animated-shorts",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "stars": 3443,
+      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "language": "TypeScript",
+      "readme_excerpt": "The free Claude skill from the video **\"How to Make Viral Animated Shorts Using Claude (Full Workflow)\"**.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 143,
+        "hours": 24.27,
+        "rate": 0.043333333333333335
+      }
+    },
+    {
+      "id": 1440160468,
+      "name": "Arjun-Ingole/hop",
+      "url": "https://github.com/Arjun-Ingole/hop",
+      "stars": 1704,
+      "description": "Install Linux next to Windows without a USB stick",
+      "language": "PowerShell",
+      "readme_excerpt": "hop is a single Windows app that installs Linux alongside Windows. Pick a system, choose a drive, drag",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 40,
+        "hours": 24.27,
+        "rate": 0.02403846153846154
+      }
+    },
+    {
+      "id": 1441521221,
+      "name": "wquguru/cicada",
+      "url": "https://github.com/wquguru/cicada",
+      "stars": 2272,
+      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "language": "Swift",
+      "readme_excerpt": "Every call. Every stream. No language barrier.<br",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 32,
+        "hours": 24.27,
+        "rate": 0.014285714285714285
+      }
+    },
+    {
+      "id": 1439430391,
+      "name": "kevinraymond/florilegium",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "stars": 1663,
+      "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX",
+      "language": "TeX",
+      "readme_excerpt": "Procedurally generated Delft-blue page margins for LaTeX, their plants, visitors, shells and",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 4,
+        "hours": 24.27,
+        "rate": 0.0024110910186859553
+      }
+    },
+    {
+      "id": 1439885901,
+      "name": "N1nEmAn/sapper-v2",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "stars": 2101,
+      "description": "The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Foundation (Create/Language/History).",
+      "language": "Python",
+      "readme_excerpt": "sapper-v2 — The Autonomous Pentest Legion",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 32,
+        "hours": 24.27,
+        "rate": 0.015466408893185114
+      }
+    },
+    {
+      "id": 1444372497,
+      "name": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "stars": 8865,
+      "description": "YellowFruit third-party client",
+      "language": null,
+      "readme_excerpt": "感谢每一位为 HGhub 贡献代码、提交建议与反馈的朋友，也感谢所有关注、使用和支持过这个项目的人。你们的帮助与善意，我一直记在心里。",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1441897000,
+      "name": "s1dashu/quiet-md",
+      "url": "https://github.com/s1dashu/quiet-md",
+      "stars": 1872,
+      "description": "Blazing-fast native notes app and rich-text editor for macOS, Windows, and Linux. Built with Rust + GPUI. Local-first and beautifully designed.",
+      "language": "Rust",
+      "readme_excerpt": "Drawn natively with Rust + GPUI. Your notes stay on your computer, stored in the Feishu (Lark) DocxXML format.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1440151033,
+      "name": "anthropics/FlashProve",
+      "url": "https://github.com/anthropics/FlashProve",
+      "stars": 1050,
+      "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
+      "language": "Lean",
+      "readme_excerpt": "Version 0.16.0 · A research artifact: not maintained, not accepting contributions. · Apache 2.0",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1444635695,
+      "name": "andrew-babo/muse4ai",
+      "url": "https://github.com/andrew-babo/muse4ai",
+      "stars": 856,
+      "description": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+      "language": "TypeScript",
+      "readme_excerpt": "Let your AI agent make the pictures and the videos.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1442356805,
+      "name": "AssassinCreator/steam-stash-value-report-card",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "stars": 789,
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "language": "Python",
+      "readme_excerpt": "paste a profile  ->  pick a card  ->  get a PNG worth posting",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1439244319,
+      "name": "ramenvr/autopilot",
+      "url": "https://github.com/ramenvr/autopilot",
+      "stars": 862,
+      "description": "Play any game",
+      "language": "Python",
+      "readme_excerpt": "By the developers of Aura, [www.tryaura.dev](https://www.tryaura.dev/)",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1440406663,
+      "name": "joeblau/subvox",
+      "url": "https://github.com/joeblau/subvox",
+      "stars": 836,
+      "description": "",
+      "language": "Swift",
+      "readme_excerpt": "A macOS prototype that tests whether AirPods Pro head-motion data (`CMHeadphoneMotionManager`) carries enough information to turn **silently mouthed words into text**.",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1441494479,
+      "name": "Minglink/dsh-jailbreak-workflow",
+      "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+      "stars": 953,
+      "description": "DSH 破甲词制作作工作流 ",
+      "language": "TypeScript",
+      "readme_excerpt": "简体中文 | [English](./README.en.md) · [破甲技术交流论坛](https://openorigin.link/)（邀请码 `CESFAVBR`）· QQ 群 `1135498706`",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1439308037,
+      "name": "alchaincyf/huashu-bird-sticker",
+      "url": "https://github.com/alchaincyf/huashu-bird-sticker",
+      "stars": 748,
+      "description": "花叔开源的全球鸟类贴纸库 · AI-generated stickers for 11,000+ bird species (AviList v2026), CC BY 4.0, with names in 43 languages and structured data",
+      "language": null,
+      "readme_excerpt": "Bird stickers for the world's living bird species",
+      "captured_at": "2026-11-15T07:52:47.621284+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    }
+  ]
+}
