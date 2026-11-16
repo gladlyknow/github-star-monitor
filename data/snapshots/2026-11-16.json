@@ -1,0 +1,995 @@
+{
+  "captured_at": "2026-11-16T07:59:27.472620+00:00",
+  "repositories": [
+    {
+      "id": 1450963843,
+      "name": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "stars": 7790,
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "language": "Swift",
+      "readme_excerpt": "A MobileGestalt editor for iPhone and iPad. Developed by [huamidev](https://github.com/huamidev).",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 150,
+        "hours": 24.11,
+        "rate": 0.01963350785340314
+      }
+    },
+    {
+      "id": 1455006582,
+      "name": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "stars": 3626,
+      "description": "Chat Demo",
+      "language": "TypeScript",
+      "readme_excerpt": "A static chat demo powered by the DeepSeek API. No application backend is required: the browser connects directly to the configured API service.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 1709,
+        "hours": 24.11,
+        "rate": 0.8914971309337506
+      }
+    },
+    {
+      "id": 1453517867,
+      "name": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "stars": 2295,
+      "description": "Apex Neural Rendering (ANR) by Apex Compute",
+      "language": "C++",
+      "readme_excerpt": "ANR FG**: frame generation. In beta.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 399,
+        "hours": 24.11,
+        "rate": 0.21044303797468356
+      }
+    },
+    {
+      "id": 1452123445,
+      "name": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "stars": 2159,
+      "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
+      "language": "Swift",
+      "readme_excerpt": "Erosion-CN** 衍生自上游 **[jailbreakdotparty/Erosion](https://github.com/jailbreakdotparty/Erosion)**，提供中英双语界面，修复了原版多项真机 Bug，并做了防白苹果安全加固：",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 73,
+        "hours": 24.11,
+        "rate": 0.034995206136145734
+      }
+    },
+    {
+      "id": 1455416555,
+      "name": "hitkeeen/blender-ai-mcp-addon",
+      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+      "stars": 1857,
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "language": null,
+      "readme_excerpt": "Your Blender scene. Your AI models. One creative workspace.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1453132706,
+      "name": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "stars": 1719,
+      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+      "language": "TypeScript",
+      "readme_excerpt": "Private AI meeting notes. A free, open-source alternative to Granola.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 190,
+        "hours": 24.11,
+        "rate": 0.12426422498364945
+      }
+    },
+    {
+      "id": 1452531582,
+      "name": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "stars": 1612,
+      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "language": "Python",
+      "readme_excerpt": "SuperMimic trains a humanoid whole-body motion tracker with one differentiable world model, built on [mjlab](https://github.com/mujocolab/mjlab).",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 96,
+        "hours": 24.11,
+        "rate": 0.0633245382585752
+      }
+    },
+    {
+      "id": 1450794567,
+      "name": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "stars": 1572,
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "language": "TypeScript",
+      "readme_excerpt": "Agents join your channels and DMs with a role, an owner and a budget, work where everyone can see,",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 147,
+        "hours": 24.11,
+        "rate": 0.1031578947368421
+      }
+    },
+    {
+      "id": 1452008226,
+      "name": "HolyArrs/HolyArrs",
+      "url": "https://github.com/HolyArrs/HolyArrs",
+      "stars": 1294,
+      "description": "One self-hosted app for your shows, movies and music.",
+      "language": "Go",
+      "readme_excerpt": "HolyArrs 1.1.4: remove any request, and friends' Plex watchlists are read again.** A folder's quality now shows on its card, and Settings got a consistency pass. [See what's new](https://holyarrs.com/whats-new/)",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 87,
+        "hours": 24.11,
+        "rate": 0.07207953603976802
+      }
+    },
+    {
+      "id": 1451554320,
+      "name": "adriadam10/mkw-recomp",
+      "url": "https://github.com/adriadam10/mkw-recomp",
+      "stars": 1280,
+      "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+      "language": "C",
+      "readme_excerpt": "A static recompilation of *Mario Kart World* (Nintendo Switch 2, versions 1.0.0 and 1.8.0) into a native PC program for Linux and",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 277,
+        "hours": 24.11,
+        "rate": 0.2761714855433699
+      }
+    },
+    {
+      "id": 1455374283,
+      "name": "Noniv/abyssal-garden",
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "stars": 1265,
+      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+      "language": "JavaScript",
+      "readme_excerpt": "A dreamy underwater world you can swim through, right in your browser.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455815512,
+      "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+      "stars": 1233,
+      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
+      "language": "Visual Basic .NET",
+      "readme_excerpt": "FFmpeg-GUI-Editor-Windows — Ready-to-Use Free Portable Video Editor (.exe)",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 182,
+        "hours": 24.11,
+        "rate": 0.1731684110371075
+      }
+    },
+    {
+      "id": 1457270665,
+      "name": "duwqijlk/muse-protocol",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "stars": 1213,
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "language": "Python",
+      "readme_excerpt": "纯 HTTP 实现 muse.ai 的注册与邀请码兑换流程，不依赖浏览器。本文记录的是通过抓包逐字段比对得出的协议细节。",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1453604719,
+      "name": "Eynnzerr/TelemetryCleaner",
+      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+      "stars": 1167,
+      "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+      "language": "Kotlin",
+      "readme_excerpt": "运营商为终端入网、自注册、网络运维和故障排查，确有在相应场景收集必要数据的实际需求！本项目仅供学习，用于了解 Android 系统包管理机制。",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 433,
+        "hours": 24.11,
+        "rate": 0.5899182561307902
+      }
+    },
+    {
+      "id": 1451419767,
+      "name": "kolbicz/WQFiles",
+      "url": "https://github.com/kolbicz/WQFiles",
+      "stars": 955,
+      "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+      "language": "Objective-C",
+      "readme_excerpt": "WQ Files** is a file browser, app data manager and cache cleaner for iOS 26",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 81,
+        "hours": 24.11,
+        "rate": 0.09267734553775744
+      }
+    },
+    {
+      "id": 1455066549,
+      "name": "ZiChuanLan/freebie-radar",
+      "url": "https://github.com/ZiChuanLan/freebie-radar",
+      "stars": 935,
+      "description": "白嫖资源聚合雷达：57 个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+      "language": "TypeScript",
+      "readme_excerpt": "资源雷达（Resource Radar / repo: `freebie-radar`）** 是一款轻量、开箱即用的多兴趣社区信息聚合与精准推送工作台。它从各大开发者社区、游戏平台、软件限免站、GitHub、Reddit、Bluesky、Telegram 频道及自定义 RSS 采集信息，并通过 **「规则初筛与统一屏蔽 → AI 语义定级与分流 → 分频道目录呈现 → 多路由精准推送」** 把每条内容送到它该去的位置：",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1451775929,
+      "name": "alexeyw/lot-map",
+      "url": "https://github.com/alexeyw/lot-map",
+      "stars": 902,
+      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+      "language": "TypeScript",
+      "readme_excerpt": "A mod for Claude Code: a live map of the work, in a pane beside the chat. Every tool call, model step, hook and skill sends a pulse from the centre to its station, so you see memory, files, shell, web and agents at work instead of reading a list of c",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 59,
+        "hours": 24.11,
+        "rate": 0.06998813760379596
+      }
+    },
+    {
+      "id": 1452450730,
+      "name": "JDhruv14/line-art-animation",
+      "url": "https://github.com/JDhruv14/line-art-animation",
+      "stars": 860,
+      "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+      "language": "TypeScript",
+      "readme_excerpt": "A Claude skill and a small TypeScript library for animated line-art components:",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 71,
+        "hours": 24.11,
+        "rate": 0.08998732572877059
+      }
+    },
+    {
+      "id": 1450792839,
+      "name": "serveroshq/panel",
+      "url": "https://github.com/serveroshq/panel",
+      "stars": 858,
+      "description": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+      "language": "PHP",
+      "readme_excerpt": "ServerOS runs the Linux servers you already own from one place. Connect a VPS from any provider with one command, then deploy apps, sites and databases, watch them, back them up and fix them, without living in a terminal. Your servers stay with your ",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 38,
+        "hours": 24.11,
+        "rate": 0.046341463414634146
+      }
+    },
+    {
+      "id": 1456537250,
+      "name": "opencoredev/islandcn",
+      "url": "https://github.com/opencoredev/islandcn",
+      "stars": 749,
+      "description": "The open-source Dynamic Island for React, installed with shadcn.",
+      "language": "TypeScript",
+      "readme_excerpt": "A Dynamic Island-style component for any React app, installed with shadcn. Show an upload, a timer, a song, a ride on its way, an incoming call or a recording in one island at the top of your app, and shape each activity around your app's own actions",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 55,
+        "hours": 24.11,
+        "rate": 0.0792507204610951
+      }
+    },
+    {
+      "id": 1452639214,
+      "name": "failsafe-security/artex",
+      "url": "https://github.com/failsafe-security/artex",
+      "stars": 737,
+      "description": "Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)",
+      "language": "Go",
+      "readme_excerpt": "A source-built, locally bound distribution of [ARTEX](https://github.com/RuoJi6/ARTEX),",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455173808,
+      "name": "AIRzZ90/study-materials-fork",
+      "url": "https://github.com/AIRzZ90/study-materials-fork",
+      "stars": 711,
+      "description": "A cross-platform Tauri 2 interface and interaction practice project",
+      "language": "TypeScript",
+      "readme_excerpt": "基于 Rust 与 Tauri 2 的跨平台界面与交互实践项目。",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1451662178,
+      "name": "Dodaios/ste80-humanizer",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "stars": 707,
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "language": "Python",
+      "readme_excerpt": "Built by the team behind [Dodaios](https://github.com/Dodaios/Dodaios), the open-source assistant that runs your coding agents for you.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1454389076,
+      "name": "linknimiball1974/ai-texture-forge",
+      "url": "https://github.com/linknimiball1974/ai-texture-forge",
+      "stars": 682,
+      "description": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textures blender · dream textures addon · dream textures ai · dream textures seamless · dream textures pbr",
+      "language": null,
+      "readme_excerpt": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1451142649,
+      "name": "Robbyant/lingbot-touch",
+      "url": "https://github.com/Robbyant/lingbot-touch",
+      "stars": 639,
+      "description": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "language": "Python",
+      "readme_excerpt": "LingBot-Touch: A Foundation Model for Heterogeneous Tactile Representation Learning",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1454661440,
+      "name": "rivet-dev/open-orange",
+      "url": "https://github.com/rivet-dev/open-orange",
+      "stars": 604,
+      "description": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
+      "language": "TypeScript",
+      "readme_excerpt": "OpenOrange runs your existing Cloudflare Workers project on AWS, Google Cloud, Azure or your own servers, with no changes to your code. It's built with four goals:",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1454392563,
+      "name": "makepad/relax",
+      "url": "https://github.com/makepad/relax",
+      "stars": 570,
+      "description": "Relax Rust JIT",
+      "language": "Rust",
+      "readme_excerpt": "Experimental, and not affiliated with Rust.** Relax, its compiler and its JIT included, is not affiliated with or endorsed by the Rust project or the Rust Foundation. It is an AI-generated reimplementation of the Rust language, designed to minimise l",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1451084291,
+      "name": "Moh4696/cinematic-skill",
+      "url": "https://github.com/Moh4696/cinematic-skill",
+      "stars": 540,
+      "description": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
+      "language": "Python",
+      "readme_excerpt": "Ask your agent for \"a 90 second documentary about the Wright brothers\" and it writes the script, records a voice, finds public-domain photos with their licences, and builds one continuous camera move over a single designed world. Stamps slam, highlig",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1456134750,
+      "name": "faizfahmi77/ScanDot",
+      "url": "https://github.com/faizfahmi77/ScanDot",
+      "stars": 540,
+      "description": "Experimental Android 3D scanning and point-cloud viewer",
+      "language": "Kotlin",
+      "readme_excerpt": "ScanDot is an experimental Android app for capturing and viewing 3D point clouds on a supported phone. It combines ARCore camera tracking and depth estimates, saves scans locally, and provides an interactive viewer.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455742253,
+      "name": "credoksopho1984/blender-ai-copilot-studio",
+      "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+      "stars": 513,
+      "description": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot · blender ai assistant · blender mcp server",
+      "language": null,
+      "readme_excerpt": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455740160,
+      "name": "racdeufindurch198812/Blender-AI-MCP-Studio",
+      "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+      "stars": 511,
+      "description": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro",
+      "language": null,
+      "readme_excerpt": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol (MCP) server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and y",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455750092,
+      "name": "tiobeharxi1987/blender-ai-copilot-flow",
+      "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
+      "stars": 510,
+      "description": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon · blender plugin · blender extension",
+      "language": null,
+      "readme_excerpt": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455751043,
+      "name": "zovulrira1974/blender-ai-copilot-assets",
+      "url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
+      "stars": 508,
+      "description": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
+      "language": null,
+      "readme_excerpt": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455746615,
+      "name": "Doug-218/blender-ai-copilot-forge",
+      "url": "https://github.com/Doug-218/blender-ai-copilot-forge",
+      "stars": 508,
+      "description": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. · blender-ai-copilot-forge · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
+      "language": null,
+      "readme_excerpt": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455744896,
+      "name": "precygtrucqui1981/blender-ai-copilot-lab",
+      "url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
+      "stars": 506,
+      "description": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. · blender-ai-copilot-lab · blender · blender 3d · blender addon · blender plugin · blender extension",
+      "language": null,
+      "readme_excerpt": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455748713,
+      "name": "fumbdendade19718/blender-ai-copilot-desk",
+      "url": "https://github.com/fumbdendade19718/blender-ai-copilot-desk",
+      "stars": 503,
+      "description": "A visual AI desk for Blender—chat, scene objects, viewport snapshots, approvals and a live task board in one companion window, backed by your choice of models and a built-in MCP server. · blender-ai-copilot-desk · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation · blender mcp",
+      "language": null,
+      "readme_excerpt": "A visual AI desk for Blender—chat, scene objects, viewport snapshots, approvals and a live task board in one companion window, backed by your choice of models and a built-in MCP server.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455744040,
+      "name": "baiblinocun1986/blender-ai-copilot-hub",
+      "url": "https://github.com/baiblinocun1986/blender-ai-copilot-hub",
+      "stars": 501,
+      "description": "A multi-provider AI copilot hub for Blender—bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervised scene tools and a built-in MCP server. · blender-ai-copilot-hub · blender · blender 3d · blender addon · blender plugin · blender extension",
+      "language": null,
+      "readme_excerpt": "A multi-provider AI copilot hub for Blender—bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervised scene tools and a built-in MCP server.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455738282,
+      "name": "findavoulot1973/Blender-AI-MCP-Suite",
+      "url": "https://github.com/findavoulot1973/Blender-AI-MCP-Suite",
+      "stars": 497,
+      "description": "Blender AI MCP Suite is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual Studio workspace, multi-agent teams, 21+ scene tools and your choice of AI models. · blender ai mcp suite · blender ai mcp · ai for blender",
+      "language": null,
+      "readme_excerpt": "Blender AI MCP Suite is an AI assistant and built-in Model Context Protocol (MCP) server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual Studio workspace, multi-agent teams, 21+",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455933518,
+      "name": "berkantay/gpucanvas",
+      "url": "https://github.com/berkantay/gpucanvas",
+      "stars": 496,
+      "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
+      "language": "TypeScript",
+      "readme_excerpt": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects,",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455747754,
+      "name": "benzgasfuncring197110/blender-ai-copilot-bridge",
+      "url": "https://github.com/benzgasfuncring197110/blender-ai-copilot-bridge",
+      "stars": 491,
+      "description": "An MCP bridge for Blender that exposes 27 supervised scene tools to OpenCode and any compatible client—authenticated Streamable HTTP on a local endpoint, with the visual chat studio and agent teams on the inside. · blender-ai-copilot-bridge · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting",
+      "language": null,
+      "readme_excerpt": "An MCP bridge for Blender that exposes 27 supervised scene tools to OpenCode and any compatible client—authenticated Streamable HTTP on a local endpoint, with the visual chat studio and agent teams on the inside.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1440705679,
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": 23382,
+      "description": "Towards a More Autonomous Agent System",
+      "language": "TypeScript",
+      "readme_excerpt": "Research prototype for reference only, not an official DeepSeek product.** This code grew out of our team's day-to-day development work, with much of the engineering done by coding agents. Treat it as research code, not production-ready software. It ",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 201,
+        "hours": 24.11,
+        "rate": 0.008670894266856478
+      }
+    },
+    {
+      "id": 1440956372,
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "stars": 34163,
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "language": "Rust",
+      "readme_excerpt": "Point it at a target, say what you want, and it studies the original with real inspection tools,<br",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 1069,
+        "hours": 24.11,
+        "rate": 0.03230192784190488
+      }
+    },
+    {
+      "id": 1440927503,
+      "name": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "stars": 9417,
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "language": "C++",
+      "readme_excerpt": "SPDX-FileCopyrightText: Copyright 2025 Eden Emulator Project",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 176,
+        "hours": 24.11,
+        "rate": 0.0190455578400606
+      }
+    },
+    {
+      "id": 1443985070,
+      "name": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "stars": 5581,
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "language": "TypeScript",
+      "readme_excerpt": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 179,
+        "hours": 24.11,
+        "rate": 0.033135875601629027
+      }
+    },
+    {
+      "id": 1441272552,
+      "name": "Verlintas/NOIR",
+      "url": "https://github.com/Verlintas/NOIR",
+      "stars": 3582,
+      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "language": "Kotlin",
+      "readme_excerpt": "NOIR 是一个跑在电脑上的审计工具，通过 `adb` 读取已连接 Android 设备的应用清单、权限和 APK 里的网络端点，给出分类、风险评分和可执行的处置建议。它也可以在需要时调用 `jadx` 对单个应用做反编译和关键字检索。",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 82,
+        "hours": 24.11,
+        "rate": 0.023428571428571427
+      }
+    },
+    {
+      "id": 1443759946,
+      "name": "govijr/terminal-mac",
+      "url": "https://github.com/govijr/terminal-mac",
+      "stars": 2784,
+      "description": "Entire MacOS running in your terminal.",
+      "language": "Swift",
+      "readme_excerpt": "A separate macOS desktop for computer-use agents, viewed and controlled from a terminal.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 38,
+        "hours": 24.11,
+        "rate": 0.013838310269482883
+      }
+    },
+    {
+      "id": 1441526188,
+      "name": "mromidev/claude-animated-shorts",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "stars": 3610,
+      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "language": "TypeScript",
+      "readme_excerpt": "The free Claude skill from the video **\"How to Make Viral Animated Shorts Using Claude (Full Workflow)\"**.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 167,
+        "hours": 24.11,
+        "rate": 0.04850421144350857
+      }
+    },
+    {
+      "id": 1441517767,
+      "name": "caru-ini/stack-diagram",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "stars": 2526,
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "language": "TypeScript",
+      "readme_excerpt": "Describe your stack in a sentence. Get an architecture diagram with official logos.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 25,
+        "hours": 24.11,
+        "rate": 0.009996001599360257
+      }
+    },
+    {
+      "id": 1444372497,
+      "name": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "stars": 9225,
+      "description": "Plug-in media player",
+      "language": "Rust",
+      "readme_excerpt": "HGhub 将浏览、搜索、播放和个人片库放在同一个应用中。通过导入 JavaScript 插件，你可以接入不同内容来源，并使用统一的界面观看与管理内容。",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 360,
+        "hours": 24.11,
+        "rate": 0.04060913705583756
+      }
+    },
+    {
+      "id": 1441521221,
+      "name": "wquguru/cicada",
+      "url": "https://github.com/wquguru/cicada",
+      "stars": 2332,
+      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "language": "Swift",
+      "readme_excerpt": "Every call. Every stream. No language barrier.<br",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 60,
+        "hours": 24.11,
+        "rate": 0.02640845070422535
+      }
+    },
+    {
+      "id": 1441897000,
+      "name": "s1dashu/quiet-md",
+      "url": "https://github.com/s1dashu/quiet-md",
+      "stars": 1891,
+      "description": "Blazing-fast native notes app and rich-text editor for macOS, Windows, and Linux. Built with Rust + GPUI. Local-first and beautifully designed.",
+      "language": "Rust",
+      "readme_excerpt": "Drawn natively with Rust + GPUI. Your notes stay on your computer, stored in the Feishu (Lark) DocxXML format.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 19,
+        "hours": 24.11,
+        "rate": 0.01014957264957265
+      }
+    },
+    {
+      "id": 1448068371,
+      "name": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "stars": 3298,
+      "description": "",
+      "language": "JavaScript",
+      "readme_excerpt": "[sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** 是一个基于 Node.js 的验证流程学习项目，提供本地 Web 工作台、任务队列、浏览器表单交互及 HTTP 状态查询，供学校教学、学术研究和获得授权的流程测试使用。",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1445112696,
+      "name": "livliv-dev/player",
+      "url": "https://github.com/livliv-dev/player",
+      "stars": 1566,
+      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "language": "TypeScript",
+      "readme_excerpt": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking. A few lines of code put a character in a page, a stream overlay or an app.<br",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1446548114,
+      "name": "mmdoctor/google-pro-helper",
+      "url": "https://github.com/mmdoctor/google-pro-helper",
+      "stars": 1935,
+      "description": "",
+      "language": "Python",
+      "readme_excerpt": "本仓库收录两个独立版本：浏览器扩展版与批量版，分别保留各自的目录结构和原有代码。",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1444005452,
+      "name": "Sandflow-ai/sand3d",
+      "url": "https://github.com/Sandflow-ai/sand3d",
+      "stars": 2057,
+      "description": "3D modeling in Python, built for LLMs.",
+      "language": "HTML",
+      "readme_excerpt": "3D modeling in Python, built for LLMs.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1442356805,
+      "name": "AssassinCreator/steam-stash-value-report-card",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "stars": 789,
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "language": "Python",
+      "readme_excerpt": "paste a profile  ->  pick a card  ->  get a PNG worth posting",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 0,
+        "hours": 24.11,
+        "rate": 0.0
+      }
+    },
+    {
+      "id": 1440406663,
+      "name": "joeblau/subvox",
+      "url": "https://github.com/joeblau/subvox",
+      "stars": 838,
+      "description": "",
+      "language": "Swift",
+      "readme_excerpt": "A macOS prototype that tests whether AirPods Pro head-motion data (`CMHeadphoneMotionManager`) carries enough information to turn **silently mouthed words into text**.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 2,
+        "hours": 24.11,
+        "rate": 0.0023923444976076554
+      }
+    },
+    {
+      "id": 1441959881,
+      "name": "chadyi/StudyOnTV",
+      "url": "https://github.com/chadyi/StudyOnTV",
+      "stars": 1611,
+      "description": "StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions from the LAN. Learn first. Watch later.",
+      "language": "Kotlin",
+      "readme_excerpt": "Learn first. Watch later.** · 支持Android 平板、手机和电视，不需要自建服务器",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1441494479,
+      "name": "Minglink/dsh-jailbreak-workflow",
+      "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+      "stars": 978,
+      "description": "DSH 破甲词制作作工作流 ",
+      "language": "TypeScript",
+      "readme_excerpt": "简体中文 | [English](./README.en.md) · [破甲技术交流论坛](https://openorigin.link/)（邀请码 `CESFAVBR`）· QQ 群 `1135498706`",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 25,
+        "hours": 24.11,
+        "rate": 0.026232948583420776
+      }
+    },
+    {
+      "id": 1441849727,
+      "name": "Gezine/CivSwitch",
+      "url": "https://github.com/Gezine/CivSwitch",
+      "stars": 742,
+      "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
+      "language": "JavaScript",
+      "readme_excerpt": "XSS toolchain for the Switch 1 edition of Civilization 7.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1440888502,
+      "name": "sqlpxc/airhand",
+      "url": "https://github.com/sqlpxc/airhand",
+      "stars": 1325,
+      "description": "High-performance, low-latency remote desktop QUIC transport · hardware encoding and decoding · up to 120 fps Windows · macOS · Linux · Android · browser",
+      "language": "Rust",
+      "readme_excerpt": "Airhand is a **high-performance, low-latency** remote desktop: the screen is encoded on the GPU (AV1 / HEVC / H.264) at up to 120 fps and sent over QUIC; when the network slows down it skips to the latest frame instead of letting lag pile up; and the",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1441267145,
+      "name": "jyotipmahes/ML-Interview-Prep",
+      "url": "https://github.com/jyotipmahes/ML-Interview-Prep",
+      "stars": 771,
+      "description": "",
+      "language": "Jupyter Notebook",
+      "readme_excerpt": "Repository for Machine Learning Engineer (MLE) interview preparation materials and from-scratch algorithm implementations. Additional notebooks and resources will be added here.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1440461338,
+      "name": "zhanghao123vip/ai-manju-skills",
+      "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+      "stars": 829,
+      "description": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+      "language": null,
+      "readme_excerpt": "21 个题材的 AI 漫剧全流程模板。发一句故事点子，就能得到企划案、资产图提示词、分集剧本、分镜图与视频提示词，以及发布文案。",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1441183469,
+      "name": "arpanjot-coding/AVault",
+      "url": "https://github.com/arpanjot-coding/AVault",
+      "stars": 629,
+      "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
+      "language": "Kotlin",
+      "readme_excerpt": "AVault is a free, open-source Android call recorder and encrypted audio vault. Keep recordings organised, find a conversation quickly, and choose what stays in your library.",
+      "captured_at": "2026-11-16T07:59:27.472620+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    }
+  ]
+}
