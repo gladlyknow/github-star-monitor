@@ -1,0 +1,894 @@
+{
+  "captured_at": "2026-11-20T08:33:48.703841+00:00",
+  "repositories": [
+    {
+      "id": 1459971684,
+      "name": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "stars": 5705,
+      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "language": "Rust",
+      "readme_excerpt": "When replay passes with no fallback and every unit passes gate, <code>app lift</code> makes it a pure Rust app. The original is never touched.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 1746,
+        "hours": 23.75,
+        "rate": 0.4410204597120485
+      }
+    },
+    {
+      "id": 1460469810,
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 4832,
+      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+      "language": "C++",
+      "readme_excerpt": "Formerly **Wireless Battery**. Version 1.1.0 renamed the app; an update keeps your settings, startup choice and battery history.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 614,
+        "hours": 23.75,
+        "rate": 0.14556661925082978
+      }
+    },
+    {
+      "id": 1461244802,
+      "name": "gylive/google-ultra",
+      "url": "https://github.com/gylive/google-ultra",
+      "stars": 2491,
+      "description": "",
+      "language": "Python",
+      "readme_excerpt": "更新**：新增傻瓜式向导，Mac 双击 `start.command`、Windows 双击 `start.bat` 即可，主开 **AI Pro 5TB**（入口 `pro.py`）；没有安卓手机可以用 MuMu 模拟器。Ultra 目前开不出来（offer 已下架 / 账号被判地区不支持）。",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458720005,
+      "name": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "stars": 1860,
+      "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "language": "Python",
+      "readme_excerpt": "针对 **UNG220Z（九联 / Unionman 中国移动光猫）** 的一键凭据提取工具。",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 340,
+        "hours": 23.75,
+        "rate": 0.2236842105263158
+      }
+    },
+    {
+      "id": 1457270665,
+      "name": "duwqijlk/muse-protocol",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "stars": 1671,
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "language": "Python",
+      "readme_excerpt": "纯 HTTP 实现 muse.ai 的注册与邀请码兑换流程，不依赖浏览器。本文记录的是通过抓包逐字段比对得出的协议细节。",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 35,
+        "hours": 23.75,
+        "rate": 0.021393643031784843
+      }
+    },
+    {
+      "id": 1457362196,
+      "name": "CzzzzzzJ/mdldm-maitian",
+      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+      "stars": 1655,
+      "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "language": "JavaScript",
+      "readme_excerpt": "一个人做内容，要发六七个平台，每个平台的文案、封面、发布形式都不一样；发完还想知道哪期起来了、哪个平台涨粉、哪个平台真的带来了付费。麦田就是我自己每天在用的那套工作台：",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 187,
+        "hours": 23.75,
+        "rate": 0.1273841961852861
+      }
+    },
+    {
+      "id": 1457509118,
+      "name": "haziqahmedqasmi/PeakCut",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut",
+      "stars": 1410,
+      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "language": "Python",
+      "readme_excerpt": "Turn long videos and live streams into captioned vertical clips, ready to post. Free and open source: run it on",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 248,
+        "hours": 23.75,
+        "rate": 0.2134251290877797
+      }
+    },
+    {
+      "id": 1460417668,
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "stars": 1278,
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "language": "Python",
+      "readme_excerpt": "An agent skill for **hill-climbing the speed of a local LLM server** on any hardware and any quantization. It covers:",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 109,
+        "hours": 23.75,
+        "rate": 0.0932420872540633
+      }
+    },
+    {
+      "id": 1459063723,
+      "name": "joshpuckett/allo",
+      "url": "https://github.com/joshpuckett/allo",
+      "stars": 1177,
+      "description": "Allo is your friendly neighborhood typeface, free and open source",
+      "language": "Python",
+      "readme_excerpt": "Allo is your friendly neighborhood typeface. It’s variable in weight and roundness, with proportions and curves",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 101,
+        "hours": 23.75,
+        "rate": 0.09386617100371747
+      }
+    },
+    {
+      "id": 1456105425,
+      "name": "zephyr4123/snug",
+      "url": "https://github.com/zephyr4123/snug",
+      "stars": 1121,
+      "description": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every phone, tablet and computer, with native touch gestures and an App Library.",
+      "language": "Swift",
+      "readme_excerpt": "简体中文** · [English](README.en.md) · [日本語](README.ja.md)",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 68,
+        "hours": 23.75,
+        "rate": 0.06457739791073125
+      }
+    },
+    {
+      "id": 1460149071,
+      "name": "chuanqisun/spaceship",
+      "url": "https://github.com/chuanqisun/spaceship",
+      "stars": 963,
+      "description": "Steer ideas like a space pilot!",
+      "language": "HTML",
+      "readme_excerpt": "Watch on [Instagram](https://www.instagram.com/reels/DfyQPhFtW-z/) and [YouTube](https://www.youtube.com/watch?v=3WmNLWUmcnY). You can try the simulator at [https://chuanqisun.github.io/spaceship/](https://chuanqisun.github.io/spaceship/) with the op",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 78,
+        "hours": 23.75,
+        "rate": 0.08813559322033898
+      }
+    },
+    {
+      "id": 1464271688,
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "stars": 956,
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "language": null,
+      "readme_excerpt": "Your Blender scene. Your AI models. One creative workspace.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1456537250,
+      "name": "opencoredev/islandcn",
+      "url": "https://github.com/opencoredev/islandcn",
+      "stars": 820,
+      "description": "The open-source Dynamic Island for React, installed with shadcn.",
+      "language": "TypeScript",
+      "readme_excerpt": "A Dynamic Island-style component for any React app, installed with shadcn. Show an upload, a timer, a song, a ride on its way, an incoming call or a recording in one island at the top of your app, and shape each activity around your app's own actions",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 6,
+        "hours": 23.75,
+        "rate": 0.007371007371007371
+      }
+    },
+    {
+      "id": 1457919852,
+      "name": "n4ze3m/tiny-voca",
+      "url": "https://github.com/n4ze3m/tiny-voca",
+      "stars": 778,
+      "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
+      "language": "Python",
+      "readme_excerpt": "tiny-voca is a small English text-to-speech model. It has two voices, 4.5M",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 22,
+        "hours": 23.75,
+        "rate": 0.0291005291005291
+      }
+    },
+    {
+      "id": 1458292408,
+      "name": "yetanotherbrowser/yab",
+      "url": "https://github.com/yetanotherbrowser/yab",
+      "stars": 743,
+      "description": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
+      "language": "Swift",
+      "readme_excerpt": "Yet another browser. A small, quiet browser for the Mac, with an app for iPhone.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 16,
+        "hours": 23.75,
+        "rate": 0.02200825309491059
+      }
+    },
+    {
+      "id": 1456913583,
+      "name": "mit-han-lab/pear",
+      "url": "https://github.com/mit-han-lab/pear",
+      "stars": 741,
+      "description": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+      "language": "Python",
+      "readme_excerpt": "a Post-training Engine for Agentic Robotics",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 38,
+        "hours": 23.75,
+        "rate": 0.05405405405405406
+      }
+    },
+    {
+      "id": 1459700211,
+      "name": "siliconjungle/shapeshift-labs-ink-studio",
+      "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+      "stars": 739,
+      "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
+      "language": "JavaScript",
+      "readme_excerpt": "A JavaScript toolkit for sculpting signed-distance solids, baking them into pixel-art Gaussian splats, and making them move, react, break, grow and remember what happened to them. Use it from Node, drive it through the `ink-studio` command, or embed ",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 118,
+        "hours": 23.75,
+        "rate": 0.19001610305958133
+      }
+    },
+    {
+      "id": 1460180740,
+      "name": "boringmarketer/boring-marketing-skills",
+      "url": "https://github.com/boringmarketer/boring-marketing-skills",
+      "stars": 726,
+      "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+      "language": "Python",
+      "readme_excerpt": "Free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep pack for local businesses and the people who market them.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 44,
+        "hours": 23.75,
+        "rate": 0.06451612903225806
+      }
+    },
+    {
+      "id": 1463077742,
+      "name": "0marContreras/gta6recomp",
+      "url": "https://github.com/0marContreras/gta6recomp",
+      "stars": 709,
+      "description": "A GTA VI PC Port",
+      "language": null,
+      "readme_excerpt": "Runtime shader recompilation and performance optimization framework for Grand Theft Auto VI (PC)",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1463963309,
+      "name": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "stars": 709,
+      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "language": "Python",
+      "readme_excerpt": "Paste a link. Get captioned 9:16 clips in about two minutes. Free, local, open-source.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1456823826,
+      "name": "ybblab/Jiumi",
+      "url": "https://github.com/ybblab/Jiumi",
+      "stars": 632,
+      "description": "揪咪 Jiumi：开源安卓应用行为监测与管理，查看权限访问和网络活动。Android app activity & privacy monitor. No root required.",
+      "language": "Kotlin",
+      "readme_excerpt": "[下载 APK](https://github.com/ybblab/Jiumi/releases/latest)** · [使用指南](https://jiumi.ybblab.com/download/) · [官网](https://jiumi.ybblab.com)",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1456290080,
+      "name": "quer3q/kraken-mount",
+      "url": "https://github.com/quer3q/kraken-mount",
+      "stars": 552,
+      "description": "Minimalist PS5 game mounter supporting PKG, folder dumps, zstd and lz4",
+      "language": "Rust",
+      "readme_excerpt": "A PS5 game mounter. It finds games on the internal SSD, the M.2 drive and USB drives.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 22,
+        "hours": 23.75,
+        "rate": 0.04150943396226415
+      }
+    },
+    {
+      "id": 1461522454,
+      "name": "Lemxy/WinRust",
+      "url": "https://github.com/Lemxy/WinRust",
+      "stars": 525,
+      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+      "language": "Rust",
+      "readme_excerpt": "﻿<p align=\"center\"><img src=\"assets/logo.svg\" alt=\"WinRust\" width=\"160\"></p",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1457605310,
+      "name": "mankidev/antialgorithm",
+      "url": "https://github.com/mankidev/antialgorithm",
+      "stars": 520,
+      "description": "Claude Code skill that steers the model away from its first, most average pick in creative work: names, ideas, posters, UI.",
+      "language": "Python",
+      "readme_excerpt": "Claude Code skill for creative work: names, copy, story, game ideas, posters, UI. It makes the model name its first, most average pick, then move away from it for a reason taken from the project.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1458303867,
+      "name": "nilbuild/stick-scene",
+      "url": "https://github.com/nilbuild/stick-scene",
+      "stars": 514,
+      "description": "Skill to draw stick figure animated visuals",
+      "language": "JavaScript",
+      "readme_excerpt": "Skill to make your agent draw little stick-figure scenes that show what your product does.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1456134750,
+      "name": "faizwashere/ScanDot",
+      "url": "https://github.com/faizwashere/ScanDot",
+      "stars": 510,
+      "description": "Experimental Android 3D scanning and point-cloud viewer",
+      "language": "Kotlin",
+      "readme_excerpt": "ScanDot is an experimental Android app for capturing and viewing 3D point clouds on a supported phone. It combines ARCore camera tracking and depth estimates, saves scans locally, and provides an interactive viewer.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "anomalous_decrease",
+        "gain": null,
+        "hours": 23.75,
+        "rate": null
+      }
+    },
+    {
+      "id": 1456610069,
+      "name": "pixl27/ProjectReLink",
+      "url": "https://github.com/pixl27/ProjectReLink",
+      "stars": 498,
+      "description": "Project ReLink - Zelda OOT Remake Recomp. An unofficial native PC recompilation of Ocarina of Time (the Switch 2 remake), built on your PC from your own copy.",
+      "language": "C++",
+      "readme_excerpt": "Zelda OOT Remake Recomp.** An unofficial static recompilation of *The Legend of Zelda: Ocarina of Time* (the Switch 2",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1460965754,
+      "name": "0xkaka/homeport",
+      "url": "https://github.com/0xkaka/homeport",
+      "stars": 497,
+      "description": "",
+      "language": "HTML",
+      "readme_excerpt": "一句话：让 Claude、Google、Stripe 这些网站，在你所有设备上都看到同一个“住宅 IP”。",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1459020341,
+      "name": "YellowLaborerMarket/Gemini-Config-Checker-",
+      "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+      "stars": 474,
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Makefile",
+      "readme_excerpt": "Find proxy configs that actually get you into **Google AI Studio and Gemini**, by testing each one the way a person would: in a",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1459019243,
+      "name": "weightcashiercupola/Gemini-Config-Checker-",
+      "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+      "stars": 473,
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Makefile",
+      "readme_excerpt": "Find proxy configs that actually get you into **Google AI Studio and Gemini**, by testing each one the way a person would: in a",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1459019357,
+      "name": "WindGatorRise37/Gemini-Config-Checker-",
+      "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+      "stars": 472,
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Makefile",
+      "readme_excerpt": "Find proxy configs that actually get you into **Google AI Studio and Gemini**, by testing each one the way a person would: in a",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1459020334,
+      "name": "WyrmClimberManacle/Gemini-Config-Checker-",
+      "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
+      "stars": 472,
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Makefile",
+      "readme_excerpt": "Find proxy configs that actually get you into **Google AI Studio and Gemini**, by testing each one the way a person would: in a",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1459018145,
+      "name": "TurtleReside/Gemini-Config-Checker-",
+      "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
+      "stars": 472,
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Go",
+      "readme_excerpt": "Find proxy configs that actually get you into **Google AI Studio and Gemini**, by testing each one the way a person would: in a",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1459019240,
+      "name": "weldbladesmithwharf/Gemini-Config-Checker-",
+      "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
+      "stars": 472,
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Makefile",
+      "readme_excerpt": "Find proxy configs that actually get you into **Google AI Studio and Gemini**, by testing each one the way a person would: in a",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1459019231,
+      "name": "WerewolfEmuHub/Gemini-Config-Checker-",
+      "url": "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-",
+      "stars": 472,
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Go",
+      "readme_excerpt": "Find proxy configs that actually get you into **Google AI Studio and Gemini**, by testing each one the way a person would: in a",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1459019371,
+      "name": "WindowStaffGate11/Gemini-Config-Checker-",
+      "url": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-",
+      "stars": 472,
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Makefile",
+      "readme_excerpt": "Find proxy configs that actually get you into **Google AI Studio and Gemini**, by testing each one the way a person would: in a",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1459018150,
+      "name": "Violetnyudress/Gemini-Config-Checker-",
+      "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+      "stars": 472,
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Go",
+      "readme_excerpt": "Find proxy configs that actually get you into **Google AI Studio and Gemini**, by testing each one the way a person would: in a",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1459018157,
+      "name": "TrooperFilter/Gemini-Config-Checker-",
+      "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
+      "stars": 472,
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Makefile",
+      "readme_excerpt": "Find proxy configs that actually get you into **Google AI Studio and Gemini**, by testing each one the way a person would: in a",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1459020338,
+      "name": "wisemeadowlarkspike/Gemini-Config-Checker-",
+      "url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
+      "stars": 472,
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Go",
+      "readme_excerpt": "Find proxy configs that actually get you into **Google AI Studio and Gemini**, by testing each one the way a person would: in a",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1459019228,
+      "name": "Watchlespeed/Gemini-Config-Checker-",
+      "url": "https://github.com/Watchlespeed/Gemini-Config-Checker-",
+      "stars": 472,
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Makefile",
+      "readme_excerpt": "Find proxy configs that actually get you into **Google AI Studio and Gemini**, by testing each one the way a person would: in a",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1450963843,
+      "name": "huami1314/GestaltX",
+      "url": "https://github.com/huami1314/GestaltX",
+      "stars": 8591,
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "language": "Swift",
+      "readme_excerpt": "A MobileGestalt editor for iPhone and iPad. Developed by [huamidev](https://github.com/huamidev).",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 145,
+        "hours": 23.75,
+        "rate": 0.017167890125503196
+      }
+    },
+    {
+      "id": 1449231124,
+      "name": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "stars": 4338,
+      "description": "",
+      "language": "C",
+      "readme_excerpt": "NX2navi is no longer the current project. NX2navi and Triforce have merged and go on as Triforce.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 13,
+        "hours": 23.75,
+        "rate": 0.003005780346820809
+      }
+    },
+    {
+      "id": 1450012790,
+      "name": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "stars": 3706,
+      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+      "language": "C#",
+      "readme_excerpt": "Good news: [s2arm.com](https://s2arm.com) is now the official S2Arm website.** S2Arm is free and open source and never accepts donations; get S2Arm only from [s2arm.com](https://s2arm.com) or this GitHub repository.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 75,
+        "hours": 23.75,
+        "rate": 0.020655466813549985
+      }
+    },
+    {
+      "id": 1448068371,
+      "name": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "stars": 3817,
+      "description": "",
+      "language": "JavaScript",
+      "readme_excerpt": "[sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** 是一个基于 Node.js 的验证流程学习项目，提供本地 Web 工作台、任务队列、浏览器表单交互及 HTTP 状态查询，供学校教学、学术研究和获得授权的流程测试使用。",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 261,
+        "hours": 23.75,
+        "rate": 0.07339707536557931
+      }
+    },
+    {
+      "id": 1447227957,
+      "name": "IainKay/ram-altman",
+      "url": "https://github.com/IainKay/ram-altman",
+      "stars": 2346,
+      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+      "language": "Shell",
+      "readme_excerpt": "A bash script that writes to Sam Altman once a day to report the RAM he missed.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 32,
+        "hours": 23.75,
+        "rate": 0.013828867761452032
+      }
+    },
+    {
+      "id": 1447408881,
+      "name": "jamesondh/chimera-vocal-synth",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth",
+      "stars": 2826,
+      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "language": "Rust",
+      "readme_excerpt": "A physical-modeling voice synthesizer in the browser. Every sound comes from a simulated",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 67,
+        "hours": 23.75,
+        "rate": 0.024284160927872417
+      }
+    },
+    {
+      "id": 1448515937,
+      "name": "DIYgod/pinky",
+      "url": "https://github.com/DIYgod/pinky",
+      "stars": 2562,
+      "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+      "language": "Go",
+      "readme_excerpt": "Pinky lets any agent (Claude Code, Claude Desktop, Codex, Cursor or a script) operate a real iPhone or Android phone over MCP, while you watch on your computer, approve risky steps, take over and review what happened. Pinky can also do tasks by itsel",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 65,
+        "hours": 23.75,
+        "rate": 0.026031237484981977
+      }
+    },
+    {
+      "id": 1446548114,
+      "name": "mmdoctor/google-pro-helper",
+      "url": "https://github.com/mmdoctor/google-pro-helper",
+      "stars": 2021,
+      "description": "",
+      "language": "Python",
+      "readme_excerpt": "本仓库收录两个独立版本：浏览器扩展版与批量版，分别保留各自的目录结构和原有代码。",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 17,
+        "hours": 23.75,
+        "rate": 0.008483033932135729
+      }
+    },
+    {
+      "id": 1445112696,
+      "name": "livliv-dev/player",
+      "url": "https://github.com/livliv-dev/player",
+      "stars": 1602,
+      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "language": "TypeScript",
+      "readme_excerpt": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking. A few lines of code put a character in a page, a stream overlay or an app.<br",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 7,
+        "hours": 23.75,
+        "rate": 0.00438871473354232
+      }
+    },
+    {
+      "id": 1447586025,
+      "name": "voyager-so/vork",
+      "url": "https://github.com/voyager-so/vork",
+      "stars": 1650,
+      "description": "Headless 3D and VFX engine for agents. Research preview.",
+      "language": "Rust",
+      "readme_excerpt": "vork is a 3D and VFX engine built for AI agents.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 16,
+        "hours": 23.75,
+        "rate": 0.009791921664626682
+      }
+    },
+    {
+      "id": 1452123445,
+      "name": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "stars": 2602,
+      "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
+      "language": "Swift",
+      "readme_excerpt": "系统版本重要提醒（2026-11-17）**：苹果已于 **`iOS / iPadOS 27.3 beta 2`（Build `24C5049d`）** 正式封堵 `worse_query` 沙盒漏洞——升级后将无法读写 `MobileGestalt` 且已生效的修改会被系统重置。**当前最高仅支持至 `27.3 beta 1`**，强烈建议停留在 **`iOS 27.2.1`**（功能最完整）并关闭系统自动更新。",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1445695976,
+      "name": "egoist/mygo-music",
+      "url": "https://github.com/egoist/mygo-music",
+      "stars": 1494,
+      "description": "A native music player you extend with plugins",
+      "language": "Go",
+      "readme_excerpt": "A native desktop music player written in Go with [MyGo](https://github.com/egoist/mygo), no WebView. It plays your local files out of the box, and everything else comes from plugins.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 16,
+        "hours": 23.75,
+        "rate": 0.010825439783491205
+      }
+    },
+    {
+      "id": 1446515117,
+      "name": "WoYun520/gif-factory",
+      "url": "https://github.com/WoYun520/gif-factory",
+      "stars": 2056,
+      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "language": "Python",
+      "readme_excerpt": "帮我安装 GIF 工厂：[https://github.com/WoYun520/gif-factory](https://github.com/WoYun520/gif-factory)",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 14,
+        "hours": 23.75,
+        "rate": 0.0068560235063663075
+      }
+    },
+    {
+      "id": 1448807268,
+      "name": "sostenesfreitas/ocarina-recomp",
+      "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+      "stars": 1233,
+      "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+      "language": "C",
+      "readme_excerpt": "Ocarina rodando nativo no Windows, sem emulador.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 5,
+        "hours": 23.75,
+        "rate": 0.004071661237785016
+      }
+    },
+    {
+      "id": 1449518822,
+      "name": "Th0rgal/satmux",
+      "url": "https://github.com/Th0rgal/satmux",
+      "stars": 1100,
+      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "language": "Python",
+      "readme_excerpt": "TCP multiplexer and `1-RTT` HTTP/TLS relay for geostationary (GEO) inflight Wi-Fi (Inmarsat GX, Viasat, Panasonic, SITA). Pure Python 3 stdlib, zero external dependencies.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 0,
+        "hours": 23.75,
+        "rate": 0.0
+      }
+    },
+    {
+      "id": 1447145240,
+      "name": "JosssphZhou/poki",
+      "url": "https://github.com/JosssphZhou/poki",
+      "stars": 1680,
+      "description": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.",
+      "language": "Swift",
+      "readme_excerpt": "Install Poki on my iPhone from https://github.com/JosssphZhou/poki",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 64,
+        "hours": 23.75,
+        "rate": 0.039603960396039604
+      }
+    },
+    {
+      "id": 1446725477,
+      "name": "yappologistic/CUI",
+      "url": "https://github.com/yappologistic/CUI",
+      "stars": 1185,
+      "description": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
+      "language": "C",
+      "readme_excerpt": "A UI library for C that draws its own components.",
+      "captured_at": "2026-11-20T08:33:48.703841+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 35,
+        "hours": 23.75,
+        "rate": 0.030434782608695653
+      }
+    }
+  ]
+}
