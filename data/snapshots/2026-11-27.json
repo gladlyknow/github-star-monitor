@@ -1,0 +1,1000 @@
+{
+  "captured_at": "2026-11-27T09:41:42.713026+00:00",
+  "repositories": [
+    {
+      "id": 1469344551,
+      "name": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "stars": 13559,
+      "description": "An attempt at running GTA VI on PC",
+      "language": "Rust",
+      "readme_excerpt": "Runs Grand Theft Auto VI (Xbox Series X|S) natively on Windows, from files",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 707,
+        "hours": 24.16,
+        "rate": 0.05501089324618736
+      }
+    },
+    {
+      "id": 1465852099,
+      "name": "xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl",
+      "stars": 8648,
+      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "language": "Rust",
+      "readme_excerpt": "XCL – Xbox Series X|S → Windows compatibility layer",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 244,
+        "hours": 24.16,
+        "rate": 0.029033793431699192
+      }
+    },
+    {
+      "id": 1467035512,
+      "name": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "stars": 6160,
+      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "language": "JavaScript",
+      "readme_excerpt": "Does GTA VI run on PC yet?** A static GitHub Pages site that tracks every serious community effort to recompile, emulate or port the leaked Xbox Series build of GTA VI to PC. All efforts are scored on one ladder, and a scout refreshes the data every ",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 1448,
+        "hours": 24.16,
+        "rate": 0.3073005093378608
+      }
+    },
+    {
+      "id": 1466635339,
+      "name": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "stars": 4350,
+      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "language": "Rust",
+      "readme_excerpt": "Rewriting a whole app in Rust costs months, minute-long compiles and gigabytes of `target/`. Most of the runtime sits in a few functions anyway.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 262,
+        "hours": 24.16,
+        "rate": 0.06409001956947162
+      }
+    },
+    {
+      "id": 1465281397,
+      "name": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "stars": 4297,
+      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "language": "C",
+      "readme_excerpt": "Run macOS userspace on Linux by loading the macOS kernel into it.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 221,
+        "hours": 24.16,
+        "rate": 0.0542198233562316
+      }
+    },
+    {
+      "id": 1471562910,
+      "name": "Belobug/VIctory-Belobug-AMD",
+      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+      "stars": 3671,
+      "description": "",
+      "language": "Rust",
+      "readme_excerpt": "A fork of [VIctory](https://github.com/Marvisak/VIctory), a compatibility layer",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 1965,
+        "hours": 24.16,
+        "rate": 1.1518171160609614
+      }
+    },
+    {
+      "id": 1470579726,
+      "name": "fxceless/victory-fork",
+      "url": "https://github.com/fxceless/victory-fork",
+      "stars": 3314,
+      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "language": "Rust",
+      "readme_excerpt": "A work-in-progress fork of [VIctory](https://github.com/Marvisak/VIctory), a",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 143,
+        "hours": 24.16,
+        "rate": 0.04509618416903185
+      }
+    },
+    {
+      "id": 1469441675,
+      "name": "ubiquitarianism/leonida",
+      "url": "https://github.com/ubiquitarianism/leonida",
+      "stars": 2572,
+      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "language": "Python",
+      "readme_excerpt": "Leonida is a static recompilation project. The Xbox Series CPU is x86-64 like a PC, so the game's code is loaded",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 163,
+        "hours": 24.16,
+        "rate": 0.0676629306766293
+      }
+    },
+    {
+      "id": 1465728637,
+      "name": "R0Y00/Xbox2Windows",
+      "url": "https://github.com/R0Y00/Xbox2Windows",
+      "stars": 1988,
+      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+      "language": "Python",
+      "readme_excerpt": "[Join the Xbox2Windows Dev Discord](https://discord.gg/DMcmNtpd6R)** · [Project status](#current-results-and-open-work) · [Get involved](#community-and-contributions) · [Build on Windows](#first-build) · [Run the GPU check](#run-the-gpu-check)",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 28,
+        "hours": 24.16,
+        "rate": 0.014285714285714285
+      }
+    },
+    {
+      "id": 1467519193,
+      "name": "os6/nospeaker",
+      "url": "https://github.com/os6/nospeaker",
+      "stars": 1969,
+      "description": "make your macbook's trackpad talk using its haptic motor",
+      "language": "Swift",
+      "readme_excerpt": "────────────────────────  a90.com presents  ─────────────────────────",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 54,
+        "hours": 24.16,
+        "rate": 0.028198433420365536
+      }
+    },
+    {
+      "id": 1472396996,
+      "name": "avatarmanz/VIctory-7900XTX",
+      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
+      "stars": 1890,
+      "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
+      "language": "Rust",
+      "readme_excerpt": "A fork of [VIctory](https://github.com/Marvisak/VIctory), a compatibility layer",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 521,
+        "hours": 24.16,
+        "rate": 0.3805697589481373
+      }
+    },
+    {
+      "id": 1466325515,
+      "name": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator",
+      "stars": 1853,
+      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "language": "Rust",
+      "readme_excerpt": "Running the Xbox Series X|S library on PC. A continuation of [drycheetah84/TomBox](https://github.com/drycheetah84/TomBox).",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 4,
+        "hours": 24.16,
+        "rate": 0.002163331530557058
+      }
+    },
+    {
+      "id": 1471422729,
+      "name": "alesha-pro/llm.asm",
+      "url": "https://github.com/alesha-pro/llm.asm",
+      "stars": 1795,
+      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "language": "Assembly",
+      "readme_excerpt": "Three complete LLM projects written in 100% pure x86-64 NASM assembly.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 995,
+        "hours": 24.16,
+        "rate": 1.24375
+      }
+    },
+    {
+      "id": 1467461515,
+      "name": "crhywun/g1-acq",
+      "url": "https://github.com/crhywun/g1-acq",
+      "stars": 1720,
+      "description": "",
+      "language": "JavaScript",
+      "readme_excerpt": "💬 **AI羊毛交流群**:https://t.me/muihbb —— 交流 AI 优惠、订阅羊毛",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 290,
+        "hours": 24.16,
+        "rate": 0.20279720279720279
+      }
+    },
+    {
+      "id": 1471624301,
+      "name": "nexu-io/opengame",
+      "url": "https://github.com/nexu-io/opengame",
+      "stars": 1654,
+      "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "language": "TypeScript",
+      "readme_excerpt": "English** · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1466700014,
+      "name": "qianyiai/KuroCat",
+      "url": "https://github.com/qianyiai/KuroCat",
+      "stars": 1640,
+      "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
+      "language": "TypeScript",
+      "readme_excerpt": "☁️ 官方夸克网盘高速分流（内含 Windows / macOS / Android 安装包）",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 429,
+        "hours": 24.16,
+        "rate": 0.3542526837324525
+      }
+    },
+    {
+      "id": 1467880545,
+      "name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "stars": 1575,
+      "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "language": "Rust",
+      "readme_excerpt": "A native YouTube client for Windows and Linux, written in Rust.<br",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 248,
+        "hours": 24.16,
+        "rate": 0.186887716654107
+      }
+    },
+    {
+      "id": 1465547415,
+      "name": "leanprover-community/riemann-hypothesis",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis",
+      "stars": 1497,
+      "description": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
+      "language": "Lean",
+      "readme_excerpt": "A community-led effort to clean up and maintain a Lean formalization of the 2026 proofs of the Riemann Hypothesis and of GRH for Dirichlet L-functions.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 164,
+        "hours": 24.16,
+        "rate": 0.12303075768942236
+      }
+    },
+    {
+      "id": 1469329665,
+      "name": "Indigo-0167/universal-game-mod-manager",
+      "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+      "stars": 1301,
+      "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+      "language": "Rust",
+      "readme_excerpt": "Universal Game Mod Manager is a free, open-source Windows desktop application for discovering, installing, updating, and managing universal PC game mods.** Designed for gamers and VR enthusiasts, it makes cross-game modding accessible through a simpl",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 1,
+        "hours": 24.16,
+        "rate": 0.0007692307692307692
+      }
+    },
+    {
+      "id": 1469338376,
+      "name": "Umbra9179/clipboard-history-manager-windows",
+      "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+      "stars": 1266,
+      "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+      "language": "C#",
+      "readme_excerpt": "Windows Clipboard History Manager is a free, open-source clipboard manager designed to make copying, finding, editing, and reusing information effortless.** Keep a searchable history of copied text, images, files, and links in a modern Windows deskto",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 4,
+        "hours": 24.16,
+        "rate": 0.003169572107765452
+      }
+    },
+    {
+      "id": 1467247580,
+      "name": "deterministic-machines/deslop-please",
+      "url": "https://github.com/deterministic-machines/deslop-please",
+      "stars": 1169,
+      "description": "Bring (back) sanity to your code",
+      "language": "Rust",
+      "readme_excerpt": "An opinionated linter to remove sloppy code. It follows [*A Philosophy of Software Design*](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201):",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 68,
+        "hours": 24.16,
+        "rate": 0.061762034514078114
+      }
+    },
+    {
+      "id": 1472124387,
+      "name": "Reukix/Reloc",
+      "url": "https://github.com/Reukix/Reloc",
+      "stars": 1131,
+      "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+      "language": "Swift",
+      "readme_excerpt": "基于 Swift、Objective-C 与 Rust FFI 构建 · 通过本机回环实现 iAP2 / MFi-v3 / NMEA 外设定位注入",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1469337059,
+      "name": "zero5122/offline-file-converter-windows",
+      "url": "https://github.com/zero5122/offline-file-converter-windows",
+      "stars": 1074,
+      "description": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
+      "language": "Python",
+      "readme_excerpt": "Convert files without uploading them. Keep your documents, photos, music, and videos on your own computer.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 10,
+        "hours": 24.16,
+        "rate": 0.009398496240601503
+      }
+    },
+    {
+      "id": 1469330932,
+      "name": "solv4626/steam-achievement-manager-windows",
+      "url": "https://github.com/solv4626/steam-achievement-manager-windows",
+      "stars": 1058,
+      "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+      "language": "Rust",
+      "readme_excerpt": "A free, open-source Steam Achievement Manager for Windows that lets you manage game achievements, adjust supported Steam game statistics, and review your achievement progress through a convenient desktop interface. No command line required.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 0,
+        "hours": 24.16,
+        "rate": 0.0
+      }
+    },
+    {
+      "id": 1465531278,
+      "name": "danielwh2/sprite-stacking",
+      "url": "https://github.com/danielwh2/sprite-stacking",
+      "stars": 1055,
+      "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "language": "HTML",
+      "readme_excerpt": "An agent skill that turns four pixel art views into fake-3D sprites you can spin. By Daniel White.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 75,
+        "hours": 24.16,
+        "rate": 0.07653061224489796
+      }
+    },
+    {
+      "id": 1469332110,
+      "name": "kai415-debug/ffmpeg-video-audio-converter",
+      "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+      "stars": 1020,
+      "description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+      "language": "C++",
+      "readme_excerpt": "FFmpeg Video & Audio Converter is a free, open-source Windows desktop application for converting video and audio files without complicated commands.** Powered by FFmpeg and built with a convenient graphical interface, it makes multimedia conversion, ",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 0,
+        "hours": 24.16,
+        "rate": 0.0
+      }
+    },
+    {
+      "id": 1472319077,
+      "name": "lsernau/grh-lean",
+      "url": "https://github.com/lsernau/grh-lean",
+      "stars": 960,
+      "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+      "language": "Lean",
+      "readme_excerpt": "GRH for Dirichlet L-functions, in Lean 4",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 330,
+        "hours": 24.16,
+        "rate": 0.5238095238095238
+      }
+    },
+    {
+      "id": 1466075841,
+      "name": "sybil-solutions/skill-distill",
+      "url": "https://github.com/sybil-solutions/skill-distill",
+      "stars": 956,
+      "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+      "language": "Python",
+      "readme_excerpt": "A frontier model did a task well. Can an open-weight model do the same task, given the right instructions?",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 137,
+        "hours": 24.16,
+        "rate": 0.16727716727716727
+      }
+    },
+    {
+      "id": 1465322684,
+      "name": "sous-labs/songe",
+      "url": "https://github.com/sous-labs/songe",
+      "stars": 915,
+      "description": "A training engine for your local model, using your idle compute",
+      "language": "Python",
+      "readme_excerpt": "Songe is a training engine for the model you already run locally. It sits",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 29,
+        "hours": 24.16,
+        "rate": 0.0327313769751693
+      }
+    },
+    {
+      "id": 1466035287,
+      "name": "xikhar/papercraft",
+      "url": "https://github.com/xikhar/papercraft",
+      "stars": 882,
+      "description": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
+      "language": "JavaScript",
+      "readme_excerpt": "An agent skill for building games, interactive scenes, web pages, animations and videos in one handcrafted",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 138,
+        "hours": 24.16,
+        "rate": 0.18548387096774194
+      }
+    },
+    {
+      "id": 1466772859,
+      "name": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+      "url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+      "stars": 809,
+      "description": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
+      "language": "HTML",
+      "readme_excerpt": "A curated index of open-source <b>Grand Theft Auto VI</b> reverse engineering tools for Rockstar's RAGE 9 engine:<br",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 51,
+        "hours": 24.16,
+        "rate": 0.06728232189973615
+      }
+    },
+    {
+      "id": 1467769720,
+      "name": "erkamyaman/safe-anything",
+      "url": "https://github.com/erkamyaman/safe-anything",
+      "stars": 806,
+      "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+      "language": "Rust",
+      "readme_excerpt": "One command finds XSS, SQL injection and other vulnerabilities in your code, leaked secrets,<br",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 62,
+        "hours": 24.16,
+        "rate": 0.08333333333333333
+      }
+    },
+    {
+      "id": 1469938415,
+      "name": "ZigZagBoi1/ScarlettPort",
+      "url": "https://github.com/ZigZagBoi1/ScarlettPort",
+      "stars": 806,
+      "description": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
+      "language": "Rust",
+      "readme_excerpt": "Run your own Xbox Series X|S dump on a Windows PC. Its own runtime, its own launcher.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1473688485,
+      "name": "Pixel679-cmyk/windows-titlebar-blur-customizer",
+      "url": "https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer",
+      "stars": 806,
+      "description": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
+      "language": "C++",
+      "readme_excerpt": "Windows Titlebar Blur Customizer is a free, open-source Windows desktop customization tool that transforms standard application title bars with beautiful Aero, Acrylic, Mica, and glass blur effects.** Personalize the Windows 10 and Windows 11 desktop",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1468767195,
+      "name": "zortos293/XSEmu",
+      "url": "https://github.com/zortos293/XSEmu",
+      "stars": 772,
+      "description": "Experimental Xbox Series X|S (GDK) title runner for Windows, built on the XCL translation layer: D3D12.X to D3D12, RDNA2 shaders to DXIL.",
+      "language": "Rust",
+      "readme_excerpt": "Run Xbox Series X|S (GDK) titles on Windows, built on the XCL translation layer.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1472898329,
+      "name": "DoubleGhosty/cool_fox",
+      "url": "https://github.com/DoubleGhosty/cool_fox",
+      "stars": 771,
+      "description": "cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV",
+      "language": "Rust",
+      "readme_excerpt": "Experimental compatibility layer and shader translation runtime for running Xbox Series (Scarlett / GDK) x64 executables natively on Windows D3D12 (AMD Radeon and NVIDIA GeForce).",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1465854668,
+      "name": "ItsNotRexed/Hookshot",
+      "url": "https://github.com/ItsNotRexed/Hookshot",
+      "stars": 762,
+      "description": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
+      "language": "C++",
+      "readme_excerpt": "Hookshot is a static recompilation. The game's code is translated to C and compiled into a Windows or Linux program,",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 21,
+        "hours": 24.16,
+        "rate": 0.02834008097165992
+      }
+    },
+    {
+      "id": 1464795219,
+      "name": "ThreatDefence/agentic-attack-detections",
+      "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+      "stars": 761,
+      "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+      "language": "Python",
+      "readme_excerpt": "Open-source detection rules, hunting queries and indicators for security teams. They cover agentic attack frameworks: tools that hand an intrusion to AI agents, which plan, run real attack tools and keep going until they reach a goal.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 37,
+        "hours": 24.16,
+        "rate": 0.05110497237569061
+      }
+    },
+    {
+      "id": 1468140561,
+      "name": "chanke17/KuroCat",
+      "url": "https://github.com/chanke17/KuroCat",
+      "stars": 731,
+      "description": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
+      "language": "C++",
+      "readme_excerpt": "超轻量级全状态键鼠桌面萌猫 · 原生跨平台 (macOS / Windows / Linux / 统信 UOS)",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 103,
+        "hours": 24.16,
+        "rate": 0.16401273885350318
+      }
+    },
+    {
+      "id": 1469319174,
+      "name": "olive527/steam-library-manager-windows",
+      "url": "https://github.com/olive527/steam-library-manager-windows",
+      "stars": 719,
+      "description": "Free Windows game library manager and backup tool for Steam, Origin and Ubisoft Connect with multi-library support.",
+      "language": "C#",
+      "readme_excerpt": "Steam Library Manager is a free, open-source Windows desktop application for organizing, transferring, backing up and restoring PC game libraries.** Manage Steam, Origin and Uplay games from one convenient graphical interface without using the comman",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 0,
+        "hours": 24.16,
+        "rate": 0.0
+      }
+    },
+    {
+      "id": 1455006582,
+      "name": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "stars": 5499,
+      "description": "Chat Demo",
+      "language": "TypeScript",
+      "readme_excerpt": "A static chat demo powered by the DeepSeek API. No application backend is required: the browser connects directly to the configured API service.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 26,
+        "hours": 24.16,
+        "rate": 0.004750593824228029
+      }
+    },
+    {
+      "id": 1453517867,
+      "name": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "stars": 3128,
+      "description": "Apex Neural Rendering (ANR) by Apex Compute",
+      "language": "C++",
+      "readme_excerpt": "ANR FG**: frame generation. In beta.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 73,
+        "hours": 24.16,
+        "rate": 0.023895253682487724
+      }
+    },
+    {
+      "id": 1455374283,
+      "name": "Noniv/abyssal-garden",
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "stars": 3036,
+      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+      "language": "JavaScript",
+      "readme_excerpt": "A dreamy underwater world you can swim through, right in your browser.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 37,
+        "hours": 24.16,
+        "rate": 0.012337445815271757
+      }
+    },
+    {
+      "id": 1459971684,
+      "name": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "stars": 10479,
+      "description": "Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell.",
+      "language": "Rust",
+      "readme_excerpt": "Rewrite your app in Rust, and prove it still behaves the same.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455952445,
+      "name": "Immortal-Protocols/lastbook",
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "stars": 3096,
+      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "language": "Python",
+      "readme_excerpt": "Lastbook is a community built and maintained offline survival library for Mac, Windows and Linux. Point your AI to our repo and contribute to humanity's survival. It puts manuals, videos, encyclopedias, an offline map and",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 16,
+        "hours": 24.16,
+        "rate": 0.005194805194805195
+      }
+    },
+    {
+      "id": 1457270665,
+      "name": "duwqijlk/muse-protocol",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "stars": 1848,
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "language": "Python",
+      "readme_excerpt": "纯 HTTP 实现 muse.ai 的注册与邀请码兑换流程，不依赖浏览器。本文记录的是通过抓包逐字段比对得出的协议细节。",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 16,
+        "hours": 24.16,
+        "rate": 0.008733624454148471
+      }
+    },
+    {
+      "id": 1453604719,
+      "name": "Eynnzerr/TelemetryCleaner",
+      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+      "stars": 3505,
+      "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+      "language": "Kotlin",
+      "readme_excerpt": "运营商为终端入网、自注册、网络运维和故障排查，确有在相应场景收集必要数据的实际需求！本项目仅供学习，用于了解 Android 系统包管理机制。",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 333,
+        "hours": 24.16,
+        "rate": 0.10498108448928122
+      }
+    },
+    {
+      "id": 1455066549,
+      "name": "ZiChuanLan/freebie-radar",
+      "url": "https://github.com/ZiChuanLan/freebie-radar",
+      "stars": 2970,
+      "description": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+      "language": "TypeScript",
+      "readme_excerpt": "资源雷达（Resource Radar / repo: `freebie-radar`）** 是一款轻量、开箱即用的多兴趣社区信息聚合与精准推送工作台。它从各大开发者社区、游戏平台、软件限免站、GitHub、Reddit、Bluesky、Telegram 频道及自定义 RSS 采集信息，并通过 **「规则初筛与统一屏蔽 → AI 语义定级与分流 → 分频道目录呈现 → 多路由精准推送」** 把每条内容送到它该去的位置：",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 144,
+        "hours": 24.16,
+        "rate": 0.050955414012738856
+      }
+    },
+    {
+      "id": 1457362196,
+      "name": "CzzzzzzJ/mdldm-maitian",
+      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+      "stars": 2309,
+      "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "language": "JavaScript",
+      "readme_excerpt": "一句话**：麦田是 Agent 驱动的自媒体发布工作台——你对 AI 说一句「整理发布」，一期视频填好七个平台，数据每天自己回来。",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 108,
+        "hours": 24.16,
+        "rate": 0.04906860517946388
+      }
+    },
+    {
+      "id": 1460417668,
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "stars": 2844,
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "language": "Python",
+      "readme_excerpt": "An agent skill for **hill-climbing the speed of a local LLM server** on any hardware and any quantization. It covers:",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1459063723,
+      "name": "joshpuckett/allo",
+      "url": "https://github.com/joshpuckett/allo",
+      "stars": 1624,
+      "description": "Allo is your friendly neighborhood typeface, free and open source",
+      "language": "Python",
+      "readme_excerpt": "Allo is your friendly neighborhood typeface. It’s variable in weight and roundness, with proportions and curves",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 27,
+        "hours": 24.16,
+        "rate": 0.016906700062617408
+      }
+    },
+    {
+      "id": 1457509118,
+      "name": "haziqahmedqasmi/PeakCut",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut",
+      "stars": 1976,
+      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "language": "Python",
+      "readme_excerpt": "Turn long videos and live streams into captioned vertical clips, ready to post. Free and open source: run it on",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 23,
+        "hours": 24.16,
+        "rate": 0.011776753712237584
+      }
+    },
+    {
+      "id": 1456537250,
+      "name": "opencoredev/islandcn",
+      "url": "https://github.com/opencoredev/islandcn",
+      "stars": 867,
+      "description": "The open-source Dynamic Island for React, installed with shadcn.",
+      "language": "TypeScript",
+      "readme_excerpt": "A Dynamic Island-style component for any React app, installed with shadcn. Show an upload, a timer, a song, a ride on its way, an incoming call or a recording in one island at the top of your app, and shape each activity around your app's own actions",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 7,
+        "hours": 24.16,
+        "rate": 0.00813953488372093
+      }
+    },
+    {
+      "id": 1460149071,
+      "name": "chuanqisun/spaceship",
+      "url": "https://github.com/chuanqisun/spaceship",
+      "stars": 1122,
+      "description": "Steer ideas like a space pilot!",
+      "language": "HTML",
+      "readme_excerpt": "Watch on [Instagram](https://www.instagram.com/reels/DfyQPhFtW-z/) and [YouTube](https://www.youtube.com/watch?v=3WmNLWUmcnY). You can try the simulator at [https://chuanqisun.github.io/spaceship/](https://chuanqisun.github.io/spaceship/) with the op",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455173808,
+      "name": "AIRzZ90/study-materials-fork",
+      "url": "https://github.com/AIRzZ90/study-materials-fork",
+      "stars": 769,
+      "description": "A cross-platform Tauri 2 interface and interaction practice project",
+      "language": "TypeScript",
+      "readme_excerpt": "基于 Rust 与 Tauri 2 的跨平台界面与交互实践项目。",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 1,
+        "hours": 24.16,
+        "rate": 0.0013020833333333333
+      }
+    },
+    {
+      "id": 1455216001,
+      "name": "huggingface/pybot",
+      "url": "https://github.com/huggingface/pybot",
+      "stars": 1234,
+      "description": "PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.",
+      "language": "Python",
+      "readme_excerpt": "LLMs drive today’s chatbots and agents, but chatbots long predate them. Sixty years ago, [ELIZA](https://en.wikipedia.org/wiki/ELIZA) held conversations by matching patterns in what the user typed and answering with predefined templates. It could see",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1457919852,
+      "name": "n4ze3m/tiny-voca",
+      "url": "https://github.com/n4ze3m/tiny-voca",
+      "stars": 931,
+      "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
+      "language": "Python",
+      "readme_excerpt": "tiny-voca is a small English text-to-speech model. It has two voices, 4.5M",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 23,
+        "hours": 24.16,
+        "rate": 0.025330396475770924
+      }
+    },
+    {
+      "id": 1458292408,
+      "name": "yetanotherbrowser/yab",
+      "url": "https://github.com/yetanotherbrowser/yab",
+      "stars": 864,
+      "description": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
+      "language": "Swift",
+      "readme_excerpt": "Yet another browser. A small, quiet browser for the Mac, with an app for iPhone.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 22,
+        "hours": 24.16,
+        "rate": 0.026128266033254157
+      }
+    },
+    {
+      "id": 1456105425,
+      "name": "zephyr4123/snug",
+      "url": "https://github.com/zephyr4123/snug",
+      "stars": 1532,
+      "description": "让远程 Mac 在任意设备上获得原生级体验。支持 UU远程、CrossDesk 与向日葵（官方适配版）的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make your remote Mac native on any device: display and touch enhancements for UU Remote, CrossDesk and Sunlogin (official port), with a dedicated screen for every phone, tablet and computer, native touch gestures and an App Library.",
+      "language": "Swift",
+      "readme_excerpt": "简体中文** · [English](README.en.md) · [日本語](README.ja.md)",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1454389076,
+      "name": "linknimiball1974/ai-texture-forge",
+      "url": "https://github.com/linknimiball1974/ai-texture-forge",
+      "stars": 686,
+      "description": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textures blender · dream textures addon · dream textures ai · dream textures seamless · dream textures pbr",
+      "language": null,
+      "readme_excerpt": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows.",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 0,
+        "hours": 24.16,
+        "rate": 0.0
+      }
+    },
+    {
+      "id": 1454661440,
+      "name": "rivet-dev/open-orange",
+      "url": "https://github.com/rivet-dev/open-orange",
+      "stars": 880,
+      "description": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
+      "language": "TypeScript",
+      "readme_excerpt": "OpenOrange runs your existing Cloudflare Workers project on AWS, Google Cloud, Azure or your own servers, with no changes to your code. It's built with four goals:",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 5,
+        "hours": 24.16,
+        "rate": 0.005714285714285714
+      }
+    },
+    {
+      "id": 1458720005,
+      "name": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "stars": 5732,
+      "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "language": "Python",
+      "readme_excerpt": "光猫（ONT）凭据自查工具箱：**UNG220Z 一键提取**，另含多厂商适配包 `ontkit`",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1456913583,
+      "name": "mit-han-lab/pear",
+      "url": "https://github.com/mit-han-lab/pear",
+      "stars": 920,
+      "description": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+      "language": "Python",
+      "readme_excerpt": "a Post-training Engine for Agentic Robotics",
+      "captured_at": "2026-11-27T09:41:42.713026+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    }
+  ]
+}
