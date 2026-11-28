@@ -1,0 +1,1009 @@
+{
+  "captured_at": "2026-11-28T08:54:58.402981+00:00",
+  "repositories": [
+    {
+      "id": 1469344551,
+      "name": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "stars": 13912,
+      "description": "An attempt at running GTA VI on PC",
+      "language": "Rust",
+      "readme_excerpt": "Runs Grand Theft Auto VI (Xbox Series X|S) natively on Windows, from files",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 353,
+        "hours": 23.22,
+        "rate": 0.02603436831624751
+      }
+    },
+    {
+      "id": 1467035512,
+      "name": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "stars": 6923,
+      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "language": "JavaScript",
+      "readme_excerpt": "Does GTA VI run on PC yet?** A static GitHub Pages site that tracks every serious community effort to recompile, emulate or port the leaked Xbox Series build of GTA VI to PC. All efforts are scored on one ladder, and a scout refreshes the data every ",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 763,
+        "hours": 23.22,
+        "rate": 0.12386363636363637
+      }
+    },
+    {
+      "id": 1472451283,
+      "name": "trustno1-coder/VIctory-NVIDIA",
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+      "stars": 4592,
+      "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+      "language": "Rust",
+      "readme_excerpt": "Reporting a problem?** Please attach **both** logs from the run that went",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1466635339,
+      "name": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "stars": 4553,
+      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.",
+      "language": "Rust",
+      "readme_excerpt": "Most of an app's runtime sits in a few functions. **fast-anything** finds them, has your coding agent port *only those* to Rust, proves the port returns the same results on real recorded calls, and swaps it in. Reversible, one function at a time.",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 203,
+        "hours": 23.22,
+        "rate": 0.04666666666666667
+      }
+    },
+    {
+      "id": 1470579726,
+      "name": "fxceless/victory-fork",
+      "url": "https://github.com/fxceless/victory-fork",
+      "stars": 3369,
+      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "language": "Rust",
+      "readme_excerpt": "As of 27 November 2026 this repository is based on",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 55,
+        "hours": 23.22,
+        "rate": 0.01659625829812915
+      }
+    },
+    {
+      "id": 1469441675,
+      "name": "ProjectLeonida/mandy",
+      "url": "https://github.com/ProjectLeonida/mandy",
+      "stars": 3033,
+      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "language": "Python",
+      "readme_excerpt": "Leonida is a static recompilation project. The Xbox Series CPU is x86-64 like a PC, so the game's code is loaded",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 461,
+        "hours": 23.22,
+        "rate": 0.1792379471228616
+      }
+    },
+    {
+      "id": 1471624301,
+      "name": "nexu-io/opengame",
+      "url": "https://github.com/nexu-io/opengame",
+      "stars": 2534,
+      "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "language": "TypeScript",
+      "readme_excerpt": "English** · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 880,
+        "hours": 23.22,
+        "rate": 0.532043530834341
+      }
+    },
+    {
+      "id": 1471422729,
+      "name": "alesha-pro/llm.asm",
+      "url": "https://github.com/alesha-pro/llm.asm",
+      "stars": 2403,
+      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "language": "Assembly",
+      "readme_excerpt": "Three complete LLM projects written in 100% pure x86-64 NASM assembly.",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 608,
+        "hours": 23.22,
+        "rate": 0.33871866295264624
+      }
+    },
+    {
+      "id": 1467519193,
+      "name": "os6/nospeaker",
+      "url": "https://github.com/os6/nospeaker",
+      "stars": 2000,
+      "description": "make your macbook's trackpad talk using its haptic motor",
+      "language": "Swift",
+      "readme_excerpt": "────────────────────────  a90.com presents  ─────────────────────────",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 31,
+        "hours": 23.22,
+        "rate": 0.01574403250380904
+      }
+    },
+    {
+      "id": 1472124387,
+      "name": "Reukix/Reloc",
+      "url": "https://github.com/Reukix/Reloc",
+      "stars": 1964,
+      "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+      "language": "Swift",
+      "readme_excerpt": "基于 Swift 与 Objective-C 构建 · 支持简体中文与英文 · 通过本机虚拟外设实现外设级定位注入",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 833,
+        "hours": 23.22,
+        "rate": 0.7365163572060124
+      }
+    },
+    {
+      "id": 1466325515,
+      "name": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator",
+      "stars": 1848,
+      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "language": "Rust",
+      "readme_excerpt": "Running the Xbox Series X|S library on PC. A continuation of [drycheetah84/TomBox](https://github.com/drycheetah84/TomBox).",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "anomalous_decrease",
+        "gain": null,
+        "hours": 23.22,
+        "rate": null
+      }
+    },
+    {
+      "id": 1466700014,
+      "name": "qianyiai/KuroCat",
+      "url": "https://github.com/qianyiai/KuroCat",
+      "stars": 1832,
+      "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI companion (Bongo Cat alternative · MCP · Win/Mac/Linux/Android) 开源3D桌面打字小黑猫",
+      "language": "TypeScript",
+      "readme_excerpt": "☁️ 官方夸克网盘高速分流（内含 Win10/11 / Win7 / macOS / Linux / Android 全平台安装包）",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 192,
+        "hours": 23.22,
+        "rate": 0.11707317073170732
+      }
+    },
+    {
+      "id": 1467461515,
+      "name": "crhywun/g1-acq",
+      "url": "https://github.com/crhywun/g1-acq",
+      "stars": 1829,
+      "description": "",
+      "language": "JavaScript",
+      "readme_excerpt": "💬 **AI羊毛交流群**:https://t.me/muihbb —— 交流 AI 优惠、订阅羊毛",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 109,
+        "hours": 23.22,
+        "rate": 0.06337209302325582
+      }
+    },
+    {
+      "id": 1467880545,
+      "name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "stars": 1696,
+      "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "language": "Rust",
+      "readme_excerpt": "A native YouTube client for Windows and Linux, written in Rust.<br",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 121,
+        "hours": 23.22,
+        "rate": 0.07682539682539682
+      }
+    },
+    {
+      "id": 1473688485,
+      "name": "Pixel679-cmyk/windows-titlebar-blur-customizer",
+      "url": "https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer",
+      "stars": 1507,
+      "description": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
+      "language": "C++",
+      "readme_excerpt": "Windows Titlebar Blur Customizer is a free, open-source Windows desktop customization tool that transforms standard application title bars with beautiful Aero, Acrylic, Mica, and glass blur effects.** Personalize the Windows 10 and Windows 11 desktop",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 701,
+        "hours": 23.22,
+        "rate": 0.869727047146402
+      }
+    },
+    {
+      "id": 1469938415,
+      "name": "ZigZagBoi1/ScarlettPort",
+      "url": "https://github.com/ZigZagBoi1/ScarlettPort",
+      "stars": 1412,
+      "description": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
+      "language": "Rust",
+      "readme_excerpt": "Run your own Xbox Series X|S dump on a Windows PC. Its own runtime, its own launcher.",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 606,
+        "hours": 23.22,
+        "rate": 0.7518610421836228
+      }
+    },
+    {
+      "id": 1467247580,
+      "name": "deterministic-machines/deslop-please",
+      "url": "https://github.com/deterministic-machines/deslop-please",
+      "stars": 1375,
+      "description": "Bring (back) sanity to your code",
+      "language": "Rust",
+      "readme_excerpt": "An opinionated linter to remove sloppy code. It follows [*A Philosophy of Software Design*](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201):",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 206,
+        "hours": 23.22,
+        "rate": 0.17621899059024806
+      }
+    },
+    {
+      "id": 1469329665,
+      "name": "Indigo-0167/universal-game-mod-manager",
+      "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+      "stars": 1372,
+      "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+      "language": "Rust",
+      "readme_excerpt": "Universal Game Mod Manager is a free, open-source Windows desktop application for discovering, installing, updating, and managing universal PC game mods.** Designed for gamers and VR enthusiasts, it makes cross-game modding accessible through a simpl",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 71,
+        "hours": 23.22,
+        "rate": 0.054573405073020755
+      }
+    },
+    {
+      "id": 1469338376,
+      "name": "Umbra9179/clipboard-history-manager-windows",
+      "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+      "stars": 1273,
+      "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+      "language": "C#",
+      "readme_excerpt": "Windows Clipboard History Manager is a free, open-source clipboard manager designed to make copying, finding, editing, and reusing information effortless.** Keep a searchable history of copied text, images, files, and links in a modern Windows deskto",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 7,
+        "hours": 23.22,
+        "rate": 0.005529225908372828
+      }
+    },
+    {
+      "id": 1469335791,
+      "name": "umbradev315/ffmpeg-video-audio-converter",
+      "url": "https://github.com/umbradev315/ffmpeg-video-audio-converter",
+      "stars": 1247,
+      "description": "Free open-source FFmpeg GUI for Windows to convert video and audio, batch process media, and analyze quality.",
+      "language": "Kotlin",
+      "readme_excerpt": "Convert, process, and analyze multimedia files with the power of FFmpeg through an intuitive Windows desktop application.",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1469330932,
+      "name": "solv4626/steam-achievement-manager-windows",
+      "url": "https://github.com/solv4626/steam-achievement-manager-windows",
+      "stars": 1237,
+      "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+      "language": "Rust",
+      "readme_excerpt": "A free, open-source Steam Achievement Manager for Windows that lets you manage game achievements, adjust supported Steam game statistics, and review your achievement progress through a convenient desktop interface. No command line required.",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 179,
+        "hours": 23.22,
+        "rate": 0.16918714555765596
+      }
+    },
+    {
+      "id": 1469320737,
+      "name": "Basil0879/steam-game-idler",
+      "url": "https://github.com/Basil0879/steam-game-idler",
+      "stars": 1224,
+      "description": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
+      "language": "TypeScript",
+      "readme_excerpt": "Automate your Steam library. Collect cards, manage achievements, and boost playtime with one convenient desktop application.",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1468649172,
+      "name": "DeadInternetStudios/100x-engineer-skill",
+      "url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+      "stars": 1219,
+      "description": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
+      "language": "JavaScript",
+      "readme_excerpt": "No more \"almost works\" agentic coding",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1469328448,
+      "name": "peak85-sketch/stardew-valley-mod-manager",
+      "url": "https://github.com/peak85-sketch/stardew-valley-mod-manager",
+      "stars": 1209,
+      "description": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates and custom profiles.",
+      "language": "C#",
+      "readme_excerpt": "Stardew Valley Mod Manager is a free, open-source desktop application for organizing, managing and updating Stardew Valley mods on Windows.** Built for players who want an easier modding experience, it brings SMAPI integration, mod update checking an",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1469332110,
+      "name": "kai415-debug/ffmpeg-video-audio-converter",
+      "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+      "stars": 1136,
+      "description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+      "language": "C++",
+      "readme_excerpt": "FFmpeg Video & Audio Converter is a free, open-source Windows desktop application for converting video and audio files without complicated commands.** Powered by FFmpeg and built with a convenient graphical interface, it makes multimedia conversion, ",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 116,
+        "hours": 23.22,
+        "rate": 0.11372549019607843
+      }
+    },
+    {
+      "id": 1469333130,
+      "name": "Nebula4207/av1-video-encoder-gui",
+      "url": "https://github.com/Nebula4207/av1-video-encoder-gui",
+      "stars": 1107,
+      "description": "Free Windows AV1 video encoder GUI for aomenc, rav1e, SVT-AV1, NVENC, Quick Sync and VP9 with parallel encoding.",
+      "language": "C#",
+      "readme_excerpt": "AV1 Video Encoder GUI is a free, open-source Windows desktop application for high-quality AV1 video encoding, video compression, and format conversion.** Use powerful encoders like SVT-AV1, rav1e, aomenc, NVIDIA NVENC, and Intel Quick Sync through an",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1472319077,
+      "name": "lsernau/grh-lean",
+      "url": "https://github.com/lsernau/grh-lean",
+      "stars": 1078,
+      "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+      "language": "Lean",
+      "readme_excerpt": "GRH for Dirichlet L-functions, in Lean 4",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 118,
+        "hours": 23.22,
+        "rate": 0.12291666666666666
+      }
+    },
+    {
+      "id": 1466035287,
+      "name": "xikhar/papercraft",
+      "url": "https://github.com/xikhar/papercraft",
+      "stars": 1067,
+      "description": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
+      "language": "JavaScript",
+      "readme_excerpt": "An agent skill for building games, interactive scenes, web pages, animations and videos in one handcrafted",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 185,
+        "hours": 23.22,
+        "rate": 0.20975056689342403
+      }
+    },
+    {
+      "id": 1469319174,
+      "name": "olive527/steam-library-manager-windows",
+      "url": "https://github.com/olive527/steam-library-manager-windows",
+      "stars": 1023,
+      "description": "Free Windows game library manager and backup tool for Steam, Origin and Ubisoft Connect with multi-library support.",
+      "language": "C#",
+      "readme_excerpt": "Steam Library Manager is a free, open-source Windows desktop application for organizing, transferring, backing up and restoring PC game libraries.** Manage Steam, Origin and Uplay games from one convenient graphical interface without using the comman",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 304,
+        "hours": 23.22,
+        "rate": 0.4228094575799722
+      }
+    },
+    {
+      "id": 1466075841,
+      "name": "sybil-solutions/skill-distill",
+      "url": "https://github.com/sybil-solutions/skill-distill",
+      "stars": 1016,
+      "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+      "language": "Python",
+      "readme_excerpt": "A frontier model did a task well. Can an open-weight model do the same task, given the right instructions?",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 60,
+        "hours": 23.22,
+        "rate": 0.06276150627615062
+      }
+    },
+    {
+      "id": 1474593596,
+      "name": "riveran0226/windows-explorer-blur-mica",
+      "url": "https://github.com/riveran0226/windows-explorer-blur-mica",
+      "stars": 1006,
+      "description": "Free Windows 10 & 11 Explorer customization tool for Acrylic, Mica, transparency and background blur effects.",
+      "language": "C++",
+      "readme_excerpt": "Windows Explorer Blur & Mica is a free, open-source Windows desktop customization tool that transforms the appearance of File Explorer with modern Acrylic, Mica, transparency, and background blur effects.** Designed for Windows 10 and Windows 11 user",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1474584825,
+      "name": "flint63-code/gitdesk-windows",
+      "url": "https://github.com/flint63-code/gitdesk-windows",
+      "stars": 1003,
+      "description": "Free open-source Git GUI client for Windows with visual commit history, branch management, SSH, Git LFS and more.",
+      "language": "C#",
+      "readme_excerpt": "A modern graphical Git client for Windows developers.",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1474611005,
+      "name": "nocta1554/windows-video-downloader-gui",
+      "url": "https://github.com/nocta1554/windows-video-downloader-gui",
+      "stars": 998,
+      "description": "Free open-source Windows video downloader GUI for YouTube and 1,000+ websites, powered by yt-dlp.",
+      "language": "C++",
+      "readme_excerpt": "Windows Video Downloader GUI** is a free, open-source desktop application for downloading YouTube videos, extracting audio, and saving online media from websites supported by yt-dlp. Enjoy a straightforward Windows graphical interface with format sel",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1474599413,
+      "name": "mist-8659/windows-mouse-keyboard-sharing-kvm",
+      "url": "https://github.com/mist-8659/windows-mouse-keyboard-sharing-kvm",
+      "stars": 997,
+      "description": "Free open-source KVM software to share one keyboard and mouse across multiple Windows, macOS and Linux computers.",
+      "language": "C++",
+      "readme_excerpt": "Control multiple computers using a single keyboard and mouse with free, open-source KVM software.** Turn your Windows PC into a seamless multi-computer workstation, share input across Windows, macOS and Linux, and move between desktops without purcha",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1474605762,
+      "name": "leaf7684/windows-modern-media-player",
+      "url": "https://github.com/leaf7684/windows-modern-media-player",
+      "stars": 993,
+      "description": "Free open-source Windows media player with VLC playback, video streaming, subtitles and picture-in-picture.",
+      "language": "C#",
+      "readme_excerpt": "Modern Windows Media Player is a free, open-source video and audio player for Windows 10 and Windows 11.** Built around VLC playback technology and a clean Windows interface, it makes watching movies, listening to music, streaming network media, and ",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1474588528,
+      "name": "Red2076-arch/waifu2x-image-upscaler-windows",
+      "url": "https://github.com/Red2076-arch/waifu2x-image-upscaler-windows",
+      "stars": 992,
+      "description": "Free AI image upscaler and photo denoiser for Windows powered by Vulkan GPU acceleration and ncnn neural networks.",
+      "language": "C++",
+      "readme_excerpt": "Waifu2x AI Image Upscaler for Windows** is a free, open-source AI image enhancement and photo upscaling application that uses deep learning to enlarge images, reduce noise, and recover visual details. Designed for anime artwork, illustrations, digita",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1474586742,
+      "name": "hollow-445/windows-keyboard-manager",
+      "url": "https://github.com/hollow-445/windows-keyboard-manager",
+      "stars": 989,
+      "description": "Free open-source keyboard remapping software for Windows with custom layouts, programmable keys, layers and tap-hold actions.",
+      "language": "Haskell",
+      "readme_excerpt": "Take complete control of your keyboard with a powerful, free and open-source keyboard remapping tool for Windows.** Create custom keyboard layouts, programmable layers, advanced key combinations and intelligent tap-hold actions without needing to wri",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1474591563,
+      "name": "Riven-639/windows-dwm-blur-glass-customizer",
+      "url": "https://github.com/Riven-639/windows-dwm-blur-glass-customizer",
+      "stars": 981,
+      "description": "Free Windows 10 & 11 DWM customization tool for Aero, Acrylic, Mica, blur and transparent title bar effects.",
+      "language": "C++",
+      "readme_excerpt": "Windows DWM Blur & Glass Customizer** is a free, open-source Windows desktop customization utility that brings Aero Glass, Acrylic, Mica, and advanced blur effects to system title bars. Personalize your Windows 10 and Windows 11 desktop with configur",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1474580438,
+      "name": "Ash793318/windows-hardware-monitor",
+      "url": "https://github.com/Ash793318/windows-hardware-monitor",
+      "stars": 981,
+      "description": "Free open-source Windows hardware monitoring app for CPU, GPU, RAM, SSD temperatures, fan speeds and system performance.",
+      "language": "C#",
+      "readme_excerpt": "Windows Hardware Monitor is a free, open-source PC hardware monitoring application for Windows that gives you a clear view of your computer's temperatures, fan speeds, voltages, clock speeds, and component utilization.** Monitor CPU, GPU, motherboard",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1474608806,
+      "name": "Quill400/windows-image-viewer",
+      "url": "https://github.com/Quill400/windows-image-viewer",
+      "stars": 981,
+      "description": "Fast, free Windows image viewer with photo browsing, editing, folder management, and optional video playback.",
+      "language": "C++",
+      "readme_excerpt": "Windows Image Viewer & Photo Manager is a fast, lightweight, free, and open-source desktop image viewer for Windows.** Browse photos, navigate folders, edit images, organize files, and optionally play videos through a clean graphical interface withou",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455006582,
+      "name": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "stars": 5532,
+      "description": "Chat Demo",
+      "language": "TypeScript",
+      "readme_excerpt": "A static chat demo powered by the DeepSeek API. No application backend is required: the browser connects directly to the configured API service.",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 33,
+        "hours": 23.22,
+        "rate": 0.006001091107474086
+      }
+    },
+    {
+      "id": 1459971684,
+      "name": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "stars": 10922,
+      "description": "Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell.",
+      "language": "Rust",
+      "readme_excerpt": "Migrate your app to Rust, and prove it still behaves the same.",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 443,
+        "hours": 23.22,
+        "rate": 0.042275026242962116
+      }
+    },
+    {
+      "id": 1455374283,
+      "name": "Noniv/abyssal-garden",
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "stars": 3065,
+      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+      "language": "JavaScript",
+      "readme_excerpt": "A dreamy underwater world you can swim through, right in your browser.",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 29,
+        "hours": 23.22,
+        "rate": 0.009552042160737812
+      }
+    },
+    {
+      "id": 1455952445,
+      "name": "Immortal-Protocols/lastbook",
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "stars": 3103,
+      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "language": "Python",
+      "readme_excerpt": "Lastbook is a community built and maintained offline survival library for Mac, Windows and Linux. Point your AI to our repo and contribute to humanity's survival. It puts manuals, videos, encyclopedias, an offline map and",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 7,
+        "hours": 23.22,
+        "rate": 0.0022609819121447027
+      }
+    },
+    {
+      "id": 1455066549,
+      "name": "ZiChuanLan/freebie-radar",
+      "url": "https://github.com/ZiChuanLan/freebie-radar",
+      "stars": 3081,
+      "description": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+      "language": "TypeScript",
+      "readme_excerpt": "资源雷达（Resource Radar / repo: `freebie-radar`）** 是一款轻量、开箱即用的多兴趣社区信息聚合与精准推送工作台。它从各大开发者社区、游戏平台、软件限免站、GitHub、Reddit、Bluesky、Telegram 频道及自定义 RSS 采集信息，并通过 **「规则初筛与统一屏蔽 → AI 语义定级与分流 → 分频道目录呈现 → 多路由精准推送」** 把每条内容送到它该去的位置：",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 111,
+        "hours": 23.22,
+        "rate": 0.03737373737373737
+      }
+    },
+    {
+      "id": 1457270665,
+      "name": "duwqijlk/muse-protocol",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "stars": 1854,
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "language": "Python",
+      "readme_excerpt": "纯 HTTP 实现 muse.ai 的注册与邀请码兑换流程，不依赖浏览器。本文记录的是通过抓包逐字段比对得出的协议细节。",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 6,
+        "hours": 23.22,
+        "rate": 0.003246753246753247
+      }
+    },
+    {
+      "id": 1458720005,
+      "name": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "stars": 5956,
+      "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "language": "Python",
+      "readme_excerpt": "光猫（ONT）凭据自查工具箱：**UNG220Z 一键提取**，另含多厂商适配包 `ontkit`",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 224,
+        "hours": 23.22,
+        "rate": 0.039078855547801813
+      }
+    },
+    {
+      "id": 1457362196,
+      "name": "CzzzzzzJ/mdldm-maitian",
+      "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+      "stars": 2383,
+      "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "language": "JavaScript",
+      "readme_excerpt": "一句话**：麦田是 Agent 驱动的自媒体发布工作台——你对 AI 说一句「整理发布」，一期视频填好七个平台，数据每天自己回来。",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 74,
+        "hours": 23.22,
+        "rate": 0.03204850584668688
+      }
+    },
+    {
+      "id": 1460417668,
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "stars": 2894,
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "language": "Python",
+      "readme_excerpt": "An agent skill for **hill-climbing the speed of a local LLM server** on any hardware and any quantization. It covers:",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 50,
+        "hours": 23.22,
+        "rate": 0.017580872011251757
+      }
+    },
+    {
+      "id": 1457509118,
+      "name": "haziqahmedqasmi/PeakCut",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut",
+      "stars": 1997,
+      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "language": "Python",
+      "readme_excerpt": "Turn long videos and live streams into captioned vertical clips, ready to post. Free and open source: run it on",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 21,
+        "hours": 23.22,
+        "rate": 0.01062753036437247
+      }
+    },
+    {
+      "id": 1459063723,
+      "name": "joshpuckett/allo",
+      "url": "https://github.com/joshpuckett/allo",
+      "stars": 1662,
+      "description": "Allo is your friendly neighborhood typeface, free and open source",
+      "language": "Python",
+      "readme_excerpt": "Allo is your friendly neighborhood typeface. It’s variable in weight and roundness, with proportions and curves",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 38,
+        "hours": 23.22,
+        "rate": 0.023399014778325122
+      }
+    },
+    {
+      "id": 1456105425,
+      "name": "zephyr4123/snug",
+      "url": "https://github.com/zephyr4123/snug",
+      "stars": 1564,
+      "description": "让远程 Mac 在任意设备上获得原生级体验。支持 UU远程、CrossDesk 与向日葵（官方适配版）的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make your remote Mac native on any device: display and touch enhancements for UU Remote, CrossDesk and Sunlogin (official port), with a dedicated screen for every phone, tablet and computer, native touch gestures and an App Library.",
+      "language": "Swift",
+      "readme_excerpt": "简体中文** · [English](README.en.md) · [日本語](README.ja.md)",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 32,
+        "hours": 23.22,
+        "rate": 0.020887728459530026
+      }
+    },
+    {
+      "id": 1460149071,
+      "name": "chuanqisun/spaceship",
+      "url": "https://github.com/chuanqisun/spaceship",
+      "stars": 1130,
+      "description": "Steer ideas like a space pilot!",
+      "language": "HTML",
+      "readme_excerpt": "Watch on [Instagram](https://www.instagram.com/reels/DfyQPhFtW-z/) and [YouTube](https://www.youtube.com/watch?v=3WmNLWUmcnY). You can try the simulator at [https://chuanqisun.github.io/spaceship/](https://chuanqisun.github.io/spaceship/) with the op",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 8,
+        "hours": 23.22,
+        "rate": 0.0071301247771836
+      }
+    },
+    {
+      "id": 1455216001,
+      "name": "huggingface/pybot",
+      "url": "https://github.com/huggingface/pybot",
+      "stars": 1248,
+      "description": "PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.",
+      "language": "Python",
+      "readme_excerpt": "LLMs drive today’s chatbots and agents, but chatbots long predate them. Sixty years ago, [ELIZA](https://en.wikipedia.org/wiki/ELIZA) held conversations by matching patterns in what the user typed and answering with predefined templates. It could see",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 14,
+        "hours": 23.22,
+        "rate": 0.011345218800648298
+      }
+    },
+    {
+      "id": 1456537250,
+      "name": "opencoredev/islandcn",
+      "url": "https://github.com/opencoredev/islandcn",
+      "stars": 869,
+      "description": "The open-source Dynamic Island for React, installed with shadcn.",
+      "language": "TypeScript",
+      "readme_excerpt": "A Dynamic Island-style component for any React app, installed with shadcn. Show an upload, a timer, a song, a ride on its way, an incoming call or a recording in one island at the top of your app, and shape each activity around your app's own actions",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 2,
+        "hours": 23.22,
+        "rate": 0.002306805074971165
+      }
+    },
+    {
+      "id": 1457919852,
+      "name": "n4ze3m/tiny-voca",
+      "url": "https://github.com/n4ze3m/tiny-voca",
+      "stars": 937,
+      "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
+      "language": "Python",
+      "readme_excerpt": "tiny-voca is a small English text-to-speech model. It has two voices, 4.5M",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 6,
+        "hours": 23.22,
+        "rate": 0.00644468313641246
+      }
+    },
+    {
+      "id": 1455173808,
+      "name": "AIRzZ90/study-materials-fork",
+      "url": "https://github.com/AIRzZ90/study-materials-fork",
+      "stars": 770,
+      "description": "A cross-platform Tauri 2 interface and interaction practice project",
+      "language": "TypeScript",
+      "readme_excerpt": "基于 Rust 与 Tauri 2 的跨平台界面与交互实践项目。",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 1,
+        "hours": 23.22,
+        "rate": 0.0013003901170351106
+      }
+    },
+    {
+      "id": 1458292408,
+      "name": "yetanotherbrowser/yab",
+      "url": "https://github.com/yetanotherbrowser/yab",
+      "stars": 870,
+      "description": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
+      "language": "Swift",
+      "readme_excerpt": "Yet another browser. A small, quiet browser for the Mac, with an app for iPhone.",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 6,
+        "hours": 23.22,
+        "rate": 0.006944444444444444
+      }
+    },
+    {
+      "id": 1456913583,
+      "name": "mit-han-lab/pear",
+      "url": "https://github.com/mit-han-lab/pear",
+      "stars": 926,
+      "description": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+      "language": "Python",
+      "readme_excerpt": "a Post-training Engine for Agentic Robotics",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 6,
+        "hours": 23.22,
+        "rate": 0.006521739130434782
+      }
+    },
+    {
+      "id": 1454661440,
+      "name": "rivet-dev/open-orange",
+      "url": "https://github.com/rivet-dev/open-orange",
+      "stars": 891,
+      "description": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
+      "language": "TypeScript",
+      "readme_excerpt": "OpenOrange runs your existing Cloudflare Workers project on AWS, Google Cloud, Azure or your own servers, with no changes to your code. It's built with four goals:",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "ok",
+        "gain": 11,
+        "hours": 23.22,
+        "rate": 0.0125
+      }
+    },
+    {
+      "id": 1460180740,
+      "name": "boringmarketer/boring-marketing-skills",
+      "url": "https://github.com/boringmarketer/boring-marketing-skills",
+      "stars": 885,
+      "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+      "language": "Python",
+      "readme_excerpt": "Free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep pack for local businesses and the people who market them.",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1460361401,
+      "name": "Illson/RustText",
+      "url": "https://github.com/Illson/RustText",
+      "stars": 463,
+      "description": "Portable Windows text editor with Sublime Text-style multi-cursor editing, regex find and replace, split views, and a live viewer for large log files.",
+      "language": "C#",
+      "readme_excerpt": "Текстовый редактор для Windows с рабочими пространствами, архивом черновиков и локальной историей файлов.** В том же окне — большие логи, JSON, прокси-чекер и инструменты для работы со списками.",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1454950288,
+      "name": "BigPizzaV3/ClaudeMom",
+      "url": "https://github.com/BigPizzaV3/ClaudeMom",
+      "stars": 710,
+      "description": "不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制）",
+      "language": "JavaScript",
+      "readme_excerpt": "不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制）",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    },
+    {
+      "id": 1455196450,
+      "name": "higurashi-ai/Haru",
+      "url": "https://github.com/higurashi-ai/Haru",
+      "stars": 793,
+      "description": "Haru: a low-latency, multilingual, full-duplex spoken dialogue model",
+      "language": "Python",
+      "readme_excerpt": "Haru is a low-latency and multilingual full-duplex spoken dialogue model: it",
+      "captured_at": "2026-11-28T08:54:58.402981+00:00",
+      "growth": {
+        "status": "insufficient_history",
+        "gain": null,
+        "rate": null
+      }
+    }
+  ]
+}
